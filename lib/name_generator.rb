@@ -32,7 +32,7 @@ module NameGenerator
     def fetch(key)
       fetched = translate "name_generator.#{key}"
       fetched = fetched.sample if fetched.respond_to? :sample
-      fetched.strip
+      fetched.gsub("\302\240", ' ').strip
     end
 
     def translate(key)
