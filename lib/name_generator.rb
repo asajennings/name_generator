@@ -56,6 +56,7 @@ end
 
 require "name_generator/version"
 require "name_generator/first_name"
+require "name_generator/middle_name"
 require "name_generator/last_name"
 require "name_generator/standalone_name"
 require "name_generator/name"
