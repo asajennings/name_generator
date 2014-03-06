@@ -33,7 +33,7 @@ module NameGenerator
       @key = key
       name_data.
         select { |k,v| v >= rand(0..max_probability) }.keys.sample.
-        gsub("\302\240", ' ').strip.capitalize
+        to_s.gsub("\302\240", ' ').strip.capitalize
     end
 
     def translate(key)
