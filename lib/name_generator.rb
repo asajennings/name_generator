@@ -29,16 +29,16 @@ module NameGenerator
       end
     end
 
-    def name_data
+    def name_data(key)
       translate "name_generator.#{key}"
     end
 
-    def max_probability
+    def max_probability(key)
       name_data.values.max
     end
 
     def fetch(key)
-      name_data.
+      name_data(key).
         select { |k,v| v >= rand(0..max_probability) }.keys.sample.
         gsub("\302\240", ' ').strip.capitalize
     end
