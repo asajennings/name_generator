@@ -22,7 +22,7 @@ module NameGenerator
     end
 
     def name_data
-      translate "name_generator.#{@key}"
+      translate "name_generator.#{@key}", default: {}
     end
 
     def max_probability
