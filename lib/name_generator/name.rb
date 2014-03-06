@@ -1,7 +1,6 @@
 module NameGenerator
   class Name < Base
     def generate
-      options = { locale: locale }
       if only_standalone?
         standalone
       elsif has_standalone?
@@ -12,11 +11,11 @@ module NameGenerator
     end
 
     def standalone
-      StandaloneName.new(options).generate
+      StandaloneName.new( locale: locale ).generate
     end
 
     def first_last
-      "#{FirstName.new(options).generate} #{LastName.new(options).generate}"
+      "#{FirstName.new( locale: locale ).generate} #{LastName.new( locale: locale ).generate}"
     end
   end
 end
