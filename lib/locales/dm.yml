@@ -1,0 +1,5 @@
+dm:
+  name_generator:
+    first_name:
+      male: { "Glenson": 1, "Owine": 1, "Kerry": 1, "Prince": 1, "Elmond": 1, "Colin": 1, "Jerome": 1, "Carlvin": 1, "Hubert": 1, "Kurtney": 1, "Camillus": 1, "Leo": 1, "Wayne": 1, "Donan": 1, "Glensworth": 1, "Kelrick": 1, "Chad": 1, "Raschid": 1, "Cheston": 1, "Leston": 1, "Mitchell": 1, "Joel": 1, "Kurlson": 1 }
+    last_name: { "Johnson": 1, "Austrie": 1, "Derrick": 1, "Bernard": 1, "Thomas": 1, "Cristopher": 1, "Prince": 1, "McKenzie": 1, "Francis": 1, "Oscar": 1, "George": 1, "Jervier": 1, "Elizee": 1, "Walters": 1, "Bertrand": 1, "Betrand": 1, "Alleyne": 1, "Dangleben": 1, "Langlais": 1, "Joseph": 1, "Roberts": 1, "Benjamin": 1 }

@@ -1,0 +1,5 @@
+er:
+  name_generator:
+    first_name:
+      male: { "Daniel": 1, "Saleh": 1, "Simon": 1, "Frezi": 1, "Telk": 1, "Elias": 1, "Efrem": 1, "Tomas": 1, "Amanuel": 1, "Suliman": 1, "Hamdai": 1, "Ermias": 1, "Sertse": 1, "Zenkael": 1, "Jusi": 1, "Berham": 1, "Hilan": 1, "Dnicatsu": 1, "Hail": 1, "Girmai": 1, "Msgina": 1 }
+    last_name: { "Goitom": 1, "Ebbaie": 1, "Gid": 1, "Berhe": 1, "Gebrejabiher": 1, "Embaie": 1, "Bein": 1, "Guess": 1, "Mohammed": 1, "Abdelkadr": 1, "Maakele": 1, "Tesfamaicl": 1, "Weldai": 1, "Asmalas": 1, "Michael": 1, "Aregai": 1, "Kaid": 1, "Shimangus": 1, "Sias": 1, "Bsrat": 1 }

@@ -1,0 +1,5 @@
+gn:
+  name_generator:
+    first_name:
+      male: { "Hamidou": 1, "Aboubacar": 1, "Sekouba": 1, "Amadou": 1, "Mohamed": 1, "Abdul": 1, "Naby": 1, "Ibrahima": 1, "Mamadou": 1, "Kamil": 1, "Morlaye": 1, "Lanfia": 1, "Oumar": 1, "Habib": 1, "Kevin": 1, "Theirno": 1, "Abdoul": 1, "Pascal": 1, "Sadio": 1, "Ismael": 1, "Idrissa": 1, "Alhassane": 1 }
+    last_name: { "Camara": 1, "Bwanga": 1, "Koundouno": 1, "Mane": 1, "Keita": 1, "Yattara": 1, "Bangoura": 1, "Mara": 1, "Zayette": 1, "Cisse": 1, "Kalabane": 1, "Diallo": 1, "Balde": 1, "Bah": 1, "Constant": 1, "Conte": 1, "Feindouno": 1, "Sylla": 1 }

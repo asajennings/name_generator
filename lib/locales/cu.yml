@@ -1,0 +1,5 @@
+cu:
+  name_generator:
+    first_name:
+      male: { "Odisnel": 1, "Armando": 1, "Yaisniel": 1, "Osmani": 1, "Hector": 1, "Nicolas": 1, "Lester": 1, "Yordany": 1, "Yenier": 1, "Mario": 1, "Dany": 1, "Enrique": 1, "Sandro": 1, "Raicel": 1, "Boris": 1, "Carlos": 1, "Alberto": 1, "Edgar": 1 }
+    last_name: { "Cooper": 1, "Coroneaux": 1, "Napoles": 1, "Montero": 1, "Ramirez": 1, "Piceiro": 1, "More": 1, "Alvarez": 1, "Bermudez": 1, "Pedraza": 1, "Quintero": 1, "Villaurrutia": 1, "Sevillano": 1, "Torres": 1, "Gonzalez": 1, "Gacrcia": 1, "Miranda": 1, "Zayas": 1, "Marquez": 1 }

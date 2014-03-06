@@ -1,0 +1,5 @@
+gh:
+  name_generator:
+    first_name:
+      male: { "Suraj": 1, "Eric": 1, "Idrissu": 1, "Samuel": 1, "Joseph": 1, "Peter": 1, "Nyaya": 1, "Ransford": 1, "Prince": 1, "Emmanuel": 1, "Ibrahim": 1, "Benjamin": 1, "Richard": 1, "Kwadwo": 1, "Kofi": 1, "Nicholas": 1, "Kwabena": 1, "Mohammed": 1, "Awadu": 1, "Charles": 1, "Farouk": 1, "Bernard": 1, "John": 1, "Anthony": 1, "Frank": 1, "George": 1, "Enoch": 1 }
+    last_name: { "Mohammed": 1, "Agyemang": 1, "Yahaya": 1, "Adade": 1, "Asamoah": 1, "Kwarteng": 1, "Alhassan": 1, "Kwakye": 1, "Arkoh": 1, "Ofosu": 1, "Odoi": 1, "Iddrisu": 1, "Mensah": 1, "Boateng": 1, "Osei": 1, "Coffie": 1, "Opoku": 1, "Poku": 1, "Wahab": 1, "Nafiu": 1, "Moro": 1, "Okyere": 1, "Ayine": 1, "Kuffour": 1, "Ardarkwa": 1, "Acheampong": 1, "Annan": 1, "Andoh": 1, "Ekow": 1, "Kwampe": 1 }

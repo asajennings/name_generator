@@ -1,0 +1,5 @@
+dj:
+  name_generator:
+    first_name:
+      male: { "Hannad": 1, "Ali": 1, "Soebier": 1, "Waberi": 1, "Hassan": 1, "Mohamed": 1, "Egueh": 1, "Akdiuahi": 1, "Abchir": 1, "Johar": 1, "Said": 1, "Ahmed": 1, "Moussa": 1, "Abdirazak": 1, "Miad": 1, "Hussein": 1 }
+    last_name: { "Sheikh": 1, "Yassin": 1, "Hachi": 1, "Ali Daher": 1, "Mahdi": 1, "Houssein": 1, "Liban": 1, "Riyad": 1, "Warsama": 1, "Kayad": 1, "Charmare": 1, "Miguil": 1 }

@@ -1,0 +1,5 @@
+gw:
+  name_generator:
+    first_name:
+      male: { "Jonas": 1, "Ricardo": 1, "Jose": 1, "Bruno": 1, "Bacar": 1, "Boucundji": 1, "Francisco": 1, "Arnaud": 1, "Luciano": 1, "Basile": 1, "Amido": 1, "Esmael": 1, "Formose": 1, "Idrissa": 1, "Tijane": 1, "Abel": 1 }
+    last_name: { "Mendes": 1, "Ferreira": 1, "Monteiro": 1, "Fernandes": 1, "Baldes": 1, "Ca": 1, "Junior": 1, "Mendy": 1, "Teixera": 1, "de Cavalho": 1, "Balde": 1, "Goncalves": 1, "Camara": 1, "Reis": 1 }

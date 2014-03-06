@@ -1,0 +1,5 @@
+cw:
+  name_generator:
+    first_name:
+      male: { "Cristopher": 1, "Rowendy": 1, "Rensley": 1, "Kishan": 1, "Jerry": 1, "Shayron": 1, "Jayson": 1, "Fernando": 1, "Quinton": 1, "Yuyu": 1, "Javier": 1, "Bryan": 1, "Myron": 1, "Daymon": 1, "Sherwin": 1, "Elvericks": 1 }
+    last_name: { "Bencho": 1, "Sumter": 1, "Celestina": 1, "Vivas": 1, "Wansing": 1, "Poppen": 1, "Anastatia": 1, "Albertus": 1, "Zimmerman": 1, "Christina": 1, "Brunkard": 1, "Zizss": 1, "Clarinda": 1, "Lodovica": 1, "Felesie": 1, "Juliana": 1 }

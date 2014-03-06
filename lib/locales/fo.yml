@@ -1,0 +1,5 @@
+fo:
+  name_generator:
+    first_name:
+      male: { "Aleksandur": 1, "Andras": 1, "Andrias": 1, "Ari": 1, "Aron": 1, "Bárður": 1, "Benjamin": 1, "Bjarni": 1, "Bogi": 1, "Brandur": 1, "Dánial": 1, "Dánjal": 1, "Dávid": 1, "Elias": 1, "Gilli": 1, "Hans": 1, "Hanus": 1, "Heini": 1, "Helgi": 1, "Hjalti": 1, "Ingi": 1, "Jákup": 1, "Jan": 1, "Jens": 1, "Jóan": 1, "Jógvan": 1, "Jóhan": 1, "Jóhann": 1, "John": 1, "Jón": 1, "Jónas": 1, "Julian": 1, "Kári": 1, "Karl": 1, "Karstin": 1, "Kristian": 1, "Martin": 1, "Meinhard": 1, "Ólavur": 1, "Páll": 1, "Petur": 1, "Rani": 1, "Rói": 1, "Rúni": 1, "Sámuel": 1, "Símun": 1, "Sverri": 1, "Teitur": 1, "Tóki": 1 }
+    last_name: { "Andreasen": 1, "Dam": 1, "Danielsen": 1, "Hansen": 1, "Hojgaard": 1, "Jacobsen": 1, "Jensen": 1, "Joensen": 1, "Johannesen": 1, "Johansen": 1, "Mikkelsen": 1, "Mortensen": 1, "Nielsen": 1, "Olsen": 1, "Petersen": 1, "Poulsen": 1, "Rasmussen": 1, "Simonsen": 1, "Sjurhuus": 1, "Thomsen": 1 }

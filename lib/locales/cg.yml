@@ -1,0 +1,5 @@
+cg:
+  name_generator:
+    first_name:
+      male: { "Roland": 1, "Gael": 1, "Renaud": 1, "Gildas": 1, "Jonathan": 1, "Lansana": 1, "Fredy": 1, "Herman": 1, "Nzamba": 1, "Boris": 1, "Dimitri": 1, "Children": 1, "Chancel": 1, "Fabry": 1, "Casaire": 1, "Bienvenu": 1, "Rudy": 1, "Lakolo": 1, "Drame": 1, "Heritier": 1, "Franchel": 1, "Guelor": 1, "Rochel": 1 }
+    last_name: { "Adomby": 1, "Gassilat": 1, "Okakas": 1, "Otolo": 1, "Lebailly": 1, "Mouyabi": 1, "Kiyari": 1, "Mbou": 1, "Camara": 1, "Ololo": 1, "Iloki": 1, "Nkodia": 1, "Mombo": 1, "Ngonga": 1, "Bissiki": 1, "Miangounina": 1, "Gombessa": 1, "Makita": 1, "Passy": 1, "Destin": 1, "Soukou": 1, "Lakolo": 1, "Gandze": 1, "Mpassi": 1, "Kombo": 1, "Bhebey": 1, "Hermann": 1, "Arouna": 1, "Ngouelou": 1, "Ibara": 1, "Ndey": 1, "Kivouri": 1 }

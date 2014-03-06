@@ -1,0 +1,5 @@
+cd:
+  name_generator:
+    first_name:
+      male: { "Eugene": 1, "Nsumbu": 1, "Ndumewa": 1, "Muteba": 1, "Joel": 1, "Kiritsho": 1, "Eric": 1, "Deo": 1, "Herve": 1, "Tresor": 1, "Pamphile": 1, "Aime": 1, "Matampi": 1, "Ngasanya": 1, "Isaac": 1, "Yannick": 1, "Guy": 1, "Erick": 1, "Serge": 1, "Patient": 1 }
+    last_name: { "Twite": 1, "Ditwabanza": 1, "Ndume": 1, "Kidiaba": 1, "Kimwaki": 1, "Kasusula": 1, "Nkulukata": 1, "Mukok": 1, "Kasonde": 1, "Ndonga": 1, "Mputu": 1, "Salakiaku": 1, "Mihayo": 1, "Bakula": 1, "Mwepu": 1, "Kayanda": 1, "Ilongo": 1, "Kasongo": 1, "Tusilu": 1, "Lusadisu": 1, "Bokanga": 1, "Lofo": 1 }

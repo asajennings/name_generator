@@ -1,0 +1,7 @@
+hk:
+  name_generator:
+    first_name:
+      male: { "Wong": 1, "Sham": 1, "So": 1, "Ma": 1, "Lau": 1, "Tam": 1, "Liu": 1, "Young": 1, "Chan": 1, "Chiu": 1, "Tse": 1, "Chu": 1, "Lam": 1, "Lo": 1, "Tsang": 1 }
+    middle_name:
+      male: { "Yiu": 1, "Kwok": 1, "Loi": 1, "Ka": 1, "Tak": 1, "Lok": 1, "Fu": 1, "Ho": 1, "Sze": 1, "Hin": 1, "Chun": 1, "Siu": 1, "Kwan": 1, "Man": 1, "Chi": 1 }
+    last_name: { "Fu": 1, "Fai": 1, "Keung": 1, "Ki": 1, "Yan": 1, "Hin": 1, "Yuen": 1, "Wang": 1, "Chun": 1, "Kwong": 1, "Kit": 1, "Him": 1, "Kei": 1, "Wai": 1, "Yee": 1, "Hau": 1, "Ho": 1 }

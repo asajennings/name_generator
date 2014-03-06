@@ -1,0 +1,5 @@
+gy:
+  name_generator:
+    first_name:
+      male: { "Ronson": 1, "Shavane": 1, "Kris": 1, "Dwain": 1, "Dwight": 1, "Anthony": 1, "Selwyn": 1, "Travis": 1, "Warren": 1, "Philbert": 1, "Kevin": 1, "Andrew": 1, "Richard": 1 }
+    last_name: { "Williams": 1, "Seaforth": 1, "Comancho": 1, "Jacobs": 1, "Mitchell": 1, "Peters": 1, "Abrams": 1, "Isaacs": 1, "Grant": 1, "Gilkes": 1, "Moffatt": 1, "McKenzie": 1, "Reynolds": 1 }

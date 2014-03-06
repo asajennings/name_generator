@@ -1,0 +1,5 @@
+do:
+  name_generator:
+    first_name:
+      male: { "Wellington": 1, "Danny": 1, "Inoel": 1, "Francisco": 1, "Osley": 1, "Johan": 1, "Jose": 1, "Gilberto": 1, "David": 1, "Jack": 1, "Rafael": 1, "Kelvin": 1, "Jimmy": 1, "Dante": 1, "Manuel": 1, "Darly": 1 }
+    last_name: { "Agramonte": 1, "De Los Sanos": 1, "Navarro": 1, "Jiminez": 1, "Guillen": 1, "Guerrero": 1, "Cruz": 1, "Reyes": 1, "Ulloa": 1, "Basano": 1, "Morillo": 1, "Estasa": 1, "Severino": 1, "Heredia": 1, "Flores": 1, "Perez": 1, "Batista": 1 }

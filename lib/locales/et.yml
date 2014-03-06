@@ -1,0 +1,5 @@
+et:
+  name_generator:
+    first_name:
+      male: { "Tariku": 1, "Jemal": 1, "Adamu": 1, "Aklilu": 1, "Wendwossen": 1, "Biruk": 1, "Girum": 1, "Mengistu": 1, "Robel": 1, "Siyoum": 1, "Henok": 1, "Tadele": 1, "Addis": 1, "Minyahil": 1, "Ephrem": 1, "Sioud": 1, "Solomon": 1, "Temesgen": 1, "Dawit": 1, "Getaneh": 1 }
+    last_name: { "Alemu": 1, "Bushra": 1, "Mahama": 1, "Chekol": 1, "Meshido": 1, "Made": 1, "Welde": 1, "Sendeku": 1, "Tsega": 1, "Moges": 1, "Yilik": 1, "Mergia": 1, "Tekle": 1, "Beyene": 1, "Nigusse": 1, "Mohammed": 1, "Huluka": 1, "Ageze": 1, "Demissie": 1, "Gebeto": 1 }

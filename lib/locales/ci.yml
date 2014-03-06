@@ -1,0 +1,5 @@
+ci:
+  name_generator:
+    first_name:
+      male: { "Ben": 1, "Bommanin": 1, "Jonas": 1, "Nicaise": 1, "Adou": 1, "Stefan": 1, "Koffi": 1, "Mohamed": 1, "Goue": 1, "Aboussy": 1, "Leoh": 1, "Lakou": 1, "Ake": 1, "Idrissa": 1, "Sekou": 1, "Draymond": 1, "Daouda": 1, "Konan": 1, "Karamoko": 1, "Wilfried": 1, "Roland": 1, "Yves": 1, "Josue": 1, "Joel": 1, "William": 1, "Franck": 1, "Didier": 1, "Lebe": 1, "Kolo": 1 }
+    last_name: { "Banh": 1, "Kohouo": 1, "Kobri": 1, "N'Goran": 1, "Tayoro": 1, "Kouame": 1, "Comara": 1, "Blagnon": 1, "Gogoua": 1, "Ukpong": 1, "Kone": 1, "Ahouchi": 1, "Kouyate": 1, "Sanogo": 1, "Ottokore": 1, "Gnako": 1, "Sadia": 1, "Sobro": 1, "Gogui": 1, "Condra": 1, "Bamba": 1, "Gnahoua": 1, "Idriss": 1, "Atufe": 1, "Zokoury": 1, "Lamana": 1 }

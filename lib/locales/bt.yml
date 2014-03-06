@@ -1,0 +1,5 @@
+bt:
+  name_generator:
+    first_name:
+      male: { "Tandin": 1, "Nima": 1, "Cheni": 1, "Ugyen": 1, "Sangay": 1, "Sonam": 1, "Nobin": 1, "Dawa": 1, "Hari": 1, "Jigme": 1, "Dorji": 1, "Pema": 1, "Kinley": 1, "Yeshey": 1, "Hemlal": 1 }
+    last_name: { "Tshering": 1, "Sangay": 1, "Yangdel": 1, "Dorgi": 1, "Khandu": 1, "Jamtsho": 1, "Gurung": 1, "Gyeltshen": 1, "Singay": 1, "Tenzin": 1, "Rinchen": 1, "Chophel": 1, "Dorji": 1, "Batarai": 1 }

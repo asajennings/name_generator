@@ -1,0 +1,5 @@
+bw:
+  name_generator:
+    first_name:
+      male: { "Mompati": 1, "Patrick": 1, "Kabo": 1, "Mokgathi": 1, "Lemponye": 1, "Alex": 1, "Cosmos": 1, "Omphemetse": 1, "Ieutweetse": 1, "Keogile": 1, "Motsholetsi": 1, "Kenano": 1, "Kemmy": 1, "Hendrick": 1, "Kago": 1, "Thapelo": 1, "Mosimanegape": 1, "Falkirk": 1, "Thabo": 1, "Bunene": 1, "Tshepo": 1, "Atang": 1 }
+    last_name: { "Thuma": 1, "Motsepe": 1, "Rasuping": 1, "Mokgathi": 1, "Tshireletso": 1, "Matshameko": 1, "Lombal": 1, "Molapo": 1, "Tsereletso": 1, "Kobe": 1, "Sikeli": 1, "Kgetholetsile": 1, "Pilato": 1, "Moyo": 1, "Segokgo": 1, "Ohilwe": 1, "Ramohibidu": 1, "Shabane": 1, "Leinanyane": 1, "Distsile": 1, "Maikano": 1, "Mmale": 1 }

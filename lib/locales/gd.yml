@@ -1,0 +1,5 @@
+gd:
+  name_generator:
+    first_name:
+      male: { "Josh": 1, "Shelmel": 1, "Desmond": 1, "Michael": 1, "Shanon": 1, "Cassim": 1, "Marc": 1, "Kareem": 1, "Anthony": 1, "Craig": 1, "Shane": 1, "Thomas": 1, "Dwayne": 1, "Lancaster": 1, "Shalrie": 1, "Junior": 1, "Jason": 1, "Elliott": 1, "Kithson": 1, "Clive": 1, "Marcus": 1 }
+    last_name: { "Charles": 1, "Louison": 1, "Noel": 1, "Mark": 1, "Phillip": 1, "Langaigne": 1, "Marshall": 1, "Joseph": 1, "Straker": 1, "Rocastle": 1, "Rennie": 1, "Richardson": 1, "Leo": 1, "Williams": 1, "Robinson": 1, "Chalres": 1, "Bain": 1, "Murray": 1, "Julien": 1 }

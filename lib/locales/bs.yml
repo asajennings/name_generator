@@ -1,0 +1,5 @@
+bs:
+  name_generator:
+    first_name:
+      male: { "Lionel": 1, "Denair": 1, "Dexter": 1, "Gavin": 1, "Damien": 1 }
+    last_name: { "Haven": 1, "Mitchell": 1, "Thurston": 1, "Christie": 1, "Neville": 1 }

@@ -1,0 +1,5 @@
+ck:
+  name_generator:
+    first_name:
+      male: { "Tony": 1, "Miitamariki": 1, "Branden": 1, "Matangi": 1, "Rhys": 1, "Leo": 1, "Campbell": 1, "Grover": 1, "Roger": 1, "Eddie": 1, "Nikorima": 1, "Iona": 1 }
+    last_name: { "Jamieson": 1, "Joseph": 1, "Turepu": 1, "Boere": 1, "Matangi": 1, "Ruka": 1, "Berlim": 1, "Best": 1, "Harmon": 1, "Manuel": 1, "Brogan": 1, "Te Miha": 1, "Lupena": 1 }

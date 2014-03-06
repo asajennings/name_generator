@@ -1,0 +1,5 @@
+eg:
+  name_generator:
+    first_name:
+      male: { "Abubakar": 1, "Akil": 1, "Anum": 1, "Asim": 1, "Fadil": 1, "Gyasi": 1, "Hasani": 1, "Huseni": 1, "Khafra": 1, "Khalid": 1, "Mohammed": 1, "Naguib": 1, "Nassar": 1, "Nassor": 1, "Rashidi": 1, "Said": 1, "Sakani": 1, "Sherif": 1, "Saad": 1, "Ramy": 1, "Wael": 1, "Ahmed": 1, "Mohamed": 1, "Emad": 1, "Walid": 1, "Ahmad": 1, "Hossam": 1, "Mahmoud": 1, "Sayed": 1, "Al-Sayed": 1, "Abdallah": 1, "Shehab": 1, "Ayman": 1, "Amr": 1 }
+    last_name: { "Hassan": 1, "Ekramy": 1, "Samir": 1, "Rabia": 1, "Fadil": 1, "Goma": 1, "Seddik": 1, "Barakat": 1, "Moteab": 1, "Shoukry": 1, "Soliman": 1, "Shedid": 1, "Abou": 1, "Moawad": 1, "Hamdy": 1, "Said": 1, "El-Din": 1, "El-Zaher": 1, "Aboutrika": 1, "Nagieb": 1, "Fathy": 1, "Ashour": 1, "Tobah": 1, "Shamy": 1, "Fattah": 1, "Ashraf": 1, "Warda": 1, "El-Said": 1, "Abdel": 1, "Hussain": 1, "Mohammed": 1 }

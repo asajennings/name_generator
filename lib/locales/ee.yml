@@ -1,0 +1,5 @@
+ee:
+  name_generator:
+    first_name:
+      male: { "Stanislav": 1, "Meelis": 1, "Karol": 1, "Rauno": 1, "Siim": 1, "Mait": 1, "Reio": 1, "Markus": 1, "Kaarel": 1, "Nikita": 1, "Andre": 1, "Karl": 1, "Eerik": 1, "Albert": 1, "Vadim": 1, "Joel": 1, "Martin": 1, "Johannes": 1, "Marten": 1, "Ragnar": 1, "Rai": 1, "Raido": 1, "Brent": 1, "Maksim": 1 }
+    last_name: { "Alekseev": 1, "Ilves": 1, "Ivanov": 1, "Kask": 1, "Koppel": 1, "Kukk": 1, "Kuznetsov": 1, "Magi": 1, "Mihhailov": 1, "Parn": 1, "Pavlov": 1, "Petrov": 1, "Rebane": 1, "Saar": 1, "Semenov": 1, "Sepp": 1, "Smirnov": 1, "Tamm": 1, "Vasilev": 1, "Pedok": 1, "Peitre": 1, "Mets": 1, "Alliku": 1, "Luts": 1, "Toom": 1, "Laabus": 1, "Jurgenson": 1, "Torop": 1, "Baranov": 1, "Palatu": 1, "Frolov": 1, "Mool": 1, "Luigend": 1, "Prosa": 1, "Gurnik": 1, "Palm": 1, "Indermitte": 1, "Kase": 1, "Kukebal": 1, "Pajunurm": 1, "Piir": 1, "Piiroja": 1, "Leokin": 1, "Lepistu": 1, "Gussev": 1 }

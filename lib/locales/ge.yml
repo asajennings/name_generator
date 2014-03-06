@@ -1,0 +1,5 @@
+ge:
+  name_generator:
+    first_name:
+      male: { "Archil": 1, "Otar": 1, "Nika": 1, "Davit": 1, "Givi": 1, "Giorgi": 1, "Levan": 1, "Jaba": 1, "Tornike": 1, "Irakli": 1, "Dimitri": 1 }
+    last_name: { "Abuladze": 1, "Aliyev": 1, "Bairamov": 1, "Beridze": 1, "Bolkvadze": 1, "Gelashvili": 1, "Giorgadze": 1, "Gogoladze": 1, "Kapanadze": 1, "Khutsishvili": 1, "Kvaratskhelia": 1, "Lomidze": 1, "Maisuradze": 1, "Mammadov": 1, "Mchedlishvili": 1, "Mikeladze": 1, "Nozadze": 1, "Shengelia": 1, "Tabatadze": 1, "Tsiklauri": 1, "Tvildiani": 1, "Khizanesishvili": 1, "Kvekveskiri": 1, "Khocholava": 1, "Seturidze": 1, "Khmaladze": 1, "Merebashvili": 1, "Dvali": 1, "Rekhviashvili": 1, "Kakubava": 1, "Zarkua": 1, "Gvelesiani": 1, "Loria": 1, "Dzaria": 1, "Tatanashvilli": 1 }

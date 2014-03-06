@@ -40,12 +40,16 @@ module NameGenerator
       I18n.translate key, locale: locale, default: {}
     end
 
-    def has_standalone?
+    def has_standalone_names?
       name_data( key: :standalone_name ).any?
     end
 
-    def only_standalone?
+    def only_standalone_names?
       name_data( key: :first_name ).empty? || name_data( key: :last_name ).empty?
+    end
+
+    def has_middle_names?
+      name_data( key: :middle_name ).any?
     end
   end
 end

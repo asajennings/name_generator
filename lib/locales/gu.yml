@@ -1,0 +1,5 @@
+gu:
+  name_generator:
+    first_name:
+      male: { "Doug": 1, "Dallas": 1, "Micah": 1, "Scott": 1, "Josh": 1, "Shawn": 1, "Jonahan": 1, "Mark": 1, "Dominic": 1, "Christian": 1, "Ryan": 1, "Ian": 1, "Travis": 1, "Jason": 1, "Thaddeus": 1, "Elias": 1, "Zachary": 1, "Dylan": 1, "Marcus": 1 }
+    last_name: { "Herrick": 1, "Jaye": 1, "Paulinho": 1, "Guerrero": 1, "Borja": 1, "Nicklaw": 1, "Romero": 1, "Chargualaf": 1, "Gadia": 1, "Schweizer": 1, "Guy": 1, "Mariano": 1, "Adamos": 1, "Cunliffe": 1, "Atalig": 1, "Marfalen": 1, "DeVille": 1, "Naputi": 1, "Lopez": 1 }

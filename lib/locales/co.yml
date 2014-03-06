@@ -1,0 +1,5 @@
+co:
+  name_generator:
+    first_name:
+      male: { "Andres": 1, "Armando": 1, "Diego": 1, "Breiner": 1, "Dayro": 1, "Juan": 1, "Carlos": 1, "Ivan": 1, "Wainer": 1, "Luis": 1, "Jossymar": 1, "Cesar": 1, "Jaider": 1, "Michael": 1, "Luis Carlos": 1, "Arol": 1, "Francisco": 1 }
+    last_name: { "Gonzalez": 1, "Nieves": 1, "Amaya": 1, "Belalcazar": 1, "Moreno": 1, "Nunez": 1, "Renteria": 1, "Chunga": 1, "Velez": 1, "Caneda": 1, "Narvaez": 1, "Hernandez": 1, "Garcia": 1, "Macias": 1, "Gomez": 1, "Rodriguez": 1, "Romero": 1, "Balanta": 1, "Ruiz": 1, "Lopez": 1, "Reyes": 1, "Ferreno": 1 }

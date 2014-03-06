@@ -1,0 +1,5 @@
+ca:
+  name_generator:
+    first_name:
+      male: { "Aaron": 1, "Adam ": 1, "Alexander": 1, "Andrew": 1, "Anthony": 1, "Austin": 1, "Benjamin": 1, "Brandon": 1, "Brendan": 1, "Cameron": 1, "Christopher": 1, "Cody": 1, "Cole": 1, "Connor": 1, "Daniel": 1, "David": 1, "Dylan": 1, "Eric": 1, "Ethan": 1, "Jacob": 1, "James": 1, "Jason": 1, "Jeremy": 1, "Jesse": 1, "John": 1, "Jonathan": 1, "Jordan": 1, "Joseph": 1, "Joshua": 1, "Justin": 1, "Kevin": 1, "Kyle": 1, "Liam": 1, "Lucas": 1, "Matthew": 1, "Michael": 1, "Mitchell": 1, "Nathan": 1, "Nicholas": 1, "Noah": 1, "Riley": 1, "Robert": 1, "Ryan": 1, "Samuel": 1, "Sean": 1, "Thomas": 1, "Trevor": 1, "Tyler": 1, "William": 1, "Zachary": 1 }
+    last_name: { "Anderson": 1, "Brown": 1, "Campbell": 1, "Chan": 1, "Clark": 1, "Gagnon": 1, "Johnson": 1, "Jones": 1, "Lam": 1, "Lee": 1, "Li": 1, "Martin": 1, "Roy": 1, "Smith": 1, "Taylor": 1, "Tremblay": 1, "White": 1, "Williams": 1, "Wilson": 1 }

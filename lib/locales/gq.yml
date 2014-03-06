@@ -1,0 +1,5 @@
+gq:
+  name_generator:
+    first_name:
+      male: { "Carlos": 1, "Ruben": 1, "Juan": 1, "Francis": 1, "Rufino": 1, "Jose": 1, "Ibrahim": 1, "Eric": 1, "Jean-Maxime": 1, "Florentino": 1, "Santiago": 1, "Cristobal": 1, "Raimundo": 1, "Marcos": 1, "Rosendo": 1, "Tomas": 1, "Justino": 1, "Mamadou": 1, "Pedro": 1, "Sergio": 1, "Ismael": 1, "Jesus": 1 }
+    last_name: { "Mosibe": 1, "Dario": 1, "Mbo": 1, "Zoumbeti": 1, "Ekoka": 1, "Mba": 1, "Agbo": 1, "Batinga": 1, "Ndongo": 1, "Ango": 1, "Fama": 1, "Alogo": 1, "Nvomo": 1, "Esono": 1, "Abaga": 1, "Milam": 1, "Moyo": 1, "Ngomo": 1, "Yauza": 1, "Fuga": 1, "Din": 1, "Ntsengue": 1, "Perfecto": 1, "Ndong": 1 }

@@ -1,12 +1,12 @@
 module NameGenerator
   class Name < Base
     def generate
-      if only_standalone?
+      if only_standalone_names?
         standalone
-      elsif has_standalone?
-        self.send [:first_last, :first_last, :standalone].sample
+      elsif has_standalone_names?
+        self.send [:standard, :standard, :standalone].sample
       else
-        first_last
+        standard
       end
     end
 
@@ -14,8 +14,11 @@ module NameGenerator
       StandaloneName.new( locale: locale ).generate
     end
 
-    def first_last
-      "#{FirstName.new( locale: locale ).generate} #{LastName.new( locale: locale ).generate}"
+    def standard
+      name_parts = [FirstName.new( locale: locale ).generate]
+      name_parts << MiddleName.new( locale: locale ).generate if has_middle_names? && [true, false, false].sample
+      name_parts << LastName.new( locale: locale ).generate
+      name_parts.compact.join(' ')
     end
   end
 end

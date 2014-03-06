@@ -1,0 +1,5 @@
+cf:
+  name_generator:
+    first_name:
+      male: { "Boris": 1, "Audin": 1, "Terrence": 1, "Moussa": 1, "Prince": 1, "Kevin": 1, "Mamadi": 1, "Brice": 1, "Delphin": 1 }
+    last_name: { "Sandjo": 1, "Boutou": 1, "Bimale": 1, "Limane": 1, "Samola": 1, "Bedot": 1, "Saoudi": 1, "Mohi": 1, "Gbazinon": 1 }

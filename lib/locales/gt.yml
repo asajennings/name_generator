@@ -1,0 +1,5 @@
+gt:
+  name_generator:
+    first_name:
+      male: { "David": 1, "Dagoberto": 1, "Elias": 1, "Erwin": 1, "Carlos": 1, "Jose Manuel": 1, "Osmar": 1, "Jean": 1, "Rafael": 1, "Transito": 1, "Bryan": 1, "Rigoberto": 1, "Kendel": 1, "Dwight": 1, "Juan": 1, "Ricardo": 1, "Rodvin": 1, "William": 1, "Rudy": 1, "Roberto": 1, "Julio Antonio": 1, "Emerson": 1, "Luis": 1, "Mafre": 1, "Josue": 1, "Edrax": 1, "Edgar": 1, "Jorge": 1, "Fredy": 1, "Christopher": 1, "Luis Carlos": 1, "Rosendo": 1, "Luis Renato": 1, "Pedro": 1 }
+    last_name: { "Guerra": 1, "Arriola": 1, "Vasquez": 1, "Morales": 1, "Meija": 1, "Contreras": 1, "Lopez": 1, "Marquez": 1, "Castrillo": 1, "Montepeque": 1, "Ordonez": 1, "Gomez": 1, "Herrate": 1, "Pezzarossi": 1, "Figueroa": 1, "Paredes": 1, "Trigueno": 1, "Castillo": 1, "Chacon": 1, "Cobar": 1, "Batres": 1, "Garcia": 1, "Rosito": 1, "Icute": 1, "Ruano": 1, "Monterroso": 1, "Meda": 1, "Gonzalez": 1, "Iboy": 1, "Trujillo": 1, "Rivas": 1, "Yol": 1 }
