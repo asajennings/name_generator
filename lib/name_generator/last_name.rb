@@ -1,7 +1,7 @@
 module NameGenerator
   class LastName < Base
     def generate
-      fetch "last_name.#{rarity}"
+      fetch "last_name"
     end
   end
 end

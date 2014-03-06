@@ -22,17 +22,25 @@ module NameGenerator
     end
 
     def rarity
-      case rand(10)
+      case rand(0..max_probability)
       when 0..5 then :common
       when 6..8 then :average
       when 9 then :rare
       end
     end
 
+    def name_data
+      translate "name_generator.#{key}"
+    end
+
+    def max_probability
+      name_data.values.max
+    end
+
     def fetch(key)
-      fetched = translate "name_generator.#{key}"
-      fetched = fetched.sample if fetched.respond_to? :sample
-      fetched.gsub("\302\240", ' ').strip.capitalize
+      name_data.
+        select { |k,v| v >= rand(0..max_probability) }.keys.sample.
+        gsub("\302\240", ' ').strip.capitalize
     end
 
     def translate(key)
