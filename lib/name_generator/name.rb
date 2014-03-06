@@ -4,8 +4,7 @@ module NameGenerator
       options = { locale: locale }
       first_name = FirstName.new(options).generate
       last_name = LastName.new(options).generate
-      binding.pry
-      if first_name && last_name then "#{first_name} #{last_name}" else "#{StandaloneName.new(options).generate}" end
+      if first_name.present? && last_name.present? then "#{first_name} #{last_name}" else "#{StandaloneName.new(options).generate}" end
     end
   end
 end
