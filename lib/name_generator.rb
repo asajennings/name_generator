@@ -41,7 +41,7 @@ module NameGenerator
     end
 
     def has_standalone?
-      name_data( key: :standalone_name ).empty?
+      name_data( key: :standalone_name ).any?
     end
 
     def only_standalone?
