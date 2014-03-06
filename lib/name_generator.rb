@@ -21,24 +21,17 @@ module NameGenerator
       @locale || I18n.locale.downcase
     end
 
-    def rarity
-      case rand(0..max_probability)
-      when 0..5 then :common
-      when 6..8 then :average
-      when 9 then :rare
-      end
+    def name_data
+      translate "name_generator.#{@key}"
     end
 
-    def name_data(key)
-      translate "name_generator.#{key}"
-    end
-
-    def max_probability(key)
+    def max_probability
       name_data.values.max
     end
 
     def fetch(key)
-      name_data(key).
+      @key = key
+      name_data.
         select { |k,v| v >= rand(0..max_probability) }.keys.sample.
         gsub("\302\240", ' ').strip.capitalize
     end
