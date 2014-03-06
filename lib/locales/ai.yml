@@ -1,0 +1,5 @@
+ai:
+  name_generator:
+    first_name:
+      male: { "Ryan": 1, "Solomon": 1, "Leon": 1, "Andre": 1, "Kevin": 1, "Romare": 1, "Walwyn": 1, "Girdon": 1, "Terrence": 1, "Emmerson": 1, "Romell": 1, "Denville": 1, "Lester": 1, "Damian": 1, "Adonijah": 1, "Jermain": 1, "Jermaine": 1, "Javille": 1, "Jaiden": 1, "Vernon": 1 }
+    last_name: { "Liddle": 1, "Davy": 1, "Jeffers": 1, "Griffith": 1, "Hawley": 1, "Kelsick": 1, "Benjamin": 1, "Connor": 1, "Rogers": 1, "Meade": 1, "Gubbs": 1, "Francis": 1, "Bailey": 1, "Richardson": 1, "Hodge": 1, "Gumbs": 1, "Brooks": 1, "Abbott": 1 }
