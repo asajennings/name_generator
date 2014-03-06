@@ -1,0 +1,5 @@
+bf:
+  name_generator:
+    first_name:
+      male: { "Daouda": 1, "Mohamed": 1, "Issa": 1, "Djibril": 1, "Adama": 1, "Bakary": 1, "Dieudonne": 1, "Siaki": 1, "Ibrahim": 1, "Georges": 1, "Ali": 1, "Zorome": 1, "Rafael": 1, "Soungalo": 1, "Jean-Noel": 1, "Tidiani": 1, "Abdramane": 1, "Wilfrid": 1, "Fousseni": 1, "Paul": 1, "Mahamadi": 1, "Wendkouni": 1, "Oumar": 1, "Issiaka": 1, "Martin": 1, "Dramane": 1, "Saibou": 1, "Idrissa": 1, "Yves": 1, "Boureima": 1, "Assany": 1, "Souleymane": 1, "Oumarou": 1 }
+    last_name: { "Compaore": 1, "Diallo": 1, "Zongo": 1, "Sawadogo": 1, "Kabore": 1, "Yarga": 1, "Coulibaly": 1, "Sako": 1, "Kano": 1, "Bonou": 1, "Ouedraogo": 1, "Mohamed": 1, "Yabre": 1, "Ouattara": 1, "Lengani": 1, "Tall": 1, "Diarra": 1, "Traore": 1, "Kaba": 1, "Kabre": 1, "Barro": 1, "Kafando": 1, "Nikiema": 1, "Illa": 1, "Konate": 1, "Derme": 1, "Hugues": 1, "Sanogo": 1, "Sabo": 1, "Galman": 1, "Guira": 1, "Nebie": 1 }

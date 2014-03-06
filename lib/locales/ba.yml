@@ -1,0 +1,5 @@
+ba:
+  name_generator:
+    first_name:
+      male: { "Asmir": 1, "Nikola": 1, "Aleksandar": 1, "Dalibor": 1, "Mladen": 1, "Fedor": 1, "Srdan": 1, "Nebojsa": 1, "Sinisa": 1, "Jovica": 1, "Boris": 1, "Stefan": 1, "Vedran": 1, "Drasko": 1, "Vukasin": 1, "Branislav": 1, "Vladan": 1, "Darko": 1, "Admir": 1, "Nemanja": 1 }
+    last_name: { "Avdukic": 1, "Vasiljevic": 1, "Radulovic": 1, "Teinovic": 1, "Zizovic": 1, "Predragovic": 1, "Grahovac": 1, "Runic": 1, "Dujakovic": 1, "Stokic": 1, "Raspudic": 1, "Subic": 1, "Kantar": 1, "Zaric": 1, "Stojnic": 1, "Kozic": 1, "Trivunovic": 1, "Narcetic": 1, "Krunic": 1, "Zeljkovic": 1, "Grujic": 1, "Matelic": 1, "Rascic": 1, "Bilbija": 1 }

@@ -1,0 +1,5 @@
+bb:
+  name_generator:
+    first_name:
+      male: { "Albert": 1, "Terry": 1, "Nicholas": 1, "Kemar": 1, "Rohan": 1, "Kevin": 1, "Barry": 1, "Corey": 1, "Akeem": 1, "Jonathan": 1, "Ryan": 1, "Jamar": 1, "Rivierre": 1, "Carlos": 1, "Christopher": 1, "Mario": 1, "Kerry": 1, "Curtis": 1, "Nicoli": 1, "John": 1, "Paul": 1, "Jermaine": 1, "Robert": 1, "Omar": 1, "Gregory": 1, "Edwin": 1, "Riviere": 1, "Anthony": 1, "Brian": 1, "Rondelle": 1, "Luther": 1, "Zidkigah": 1, "Sean": 1, "Jeffrey": 1, "Arantees": 1, "Walton": 1, "Henderson": 1, "Travis": 1, "Terrence": 1 }
+    last_name: { "Braithwaite": 1, "Smith": 1, "Best": 1, "Dottin": 1, "Hall": 1, "Padmore": 1, "Skeete": 1, "Barrow": 1, "Browne": 1, "Straker": 1, "Thompson": 1, "Watson": 1, "Williams": 1, "Barnett": 1, "Broomes": 1, "Harte": 1, "Holder": 1, "Blackman": 1, "Blenman": 1, "Durant": 1, "Straughan": 1, "Ceasar": 1, "Charles": 1, "Archer": 1, "Goodridge": 1, "Brereton": 1, "Cumberbatch": 1, "Gay": 1, "Vaughan": 1, "Samuel": 1, "King": 1, "Lawrence": 1, "Burrowes": 1, "Richards": 1, "Coppin": 1 }

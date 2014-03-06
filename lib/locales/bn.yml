@@ -1,0 +1,5 @@
+bn:
+  name_generator:
+    first_name:
+      male: { "Junaidi": 1, "Mardi": 1, "Mohd Zulkhairi": 1, "Mohd Fadzry": 1, "Muhd Akmal": 1, "Hamizan": 1, "Mohd Hendra": 1, "Riwandi": 1, "Muhd Hardiman": 1, "Nurul": 1, "Philip": 1, "Awangku": 1, "Ratano": 1, "Naasiruddeen": 1, "Adie Arsham": 1, "Marzuqi Pengiran": 1, "Muhd Shahshan": 1 }
+    last_name: { "Akim": 1, "Bujang": 1, "Salleh": 1, "Ibrahim": 1, "Gindi": 1, "Abdul Hamid": 1, "Sulaiman": 1, "Azam Idris": 1, "Wahit": 1, "Abdul Lamit": 1, "Anak Nordin": 1, "Ahar": 1, "Ramlee": 1, "Tuah": 1, "Wahab": 1, "Muhd Salleh": 1, "Hasmali": 1 }

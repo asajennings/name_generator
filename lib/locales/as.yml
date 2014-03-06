@@ -1,0 +1,5 @@
+as:
+  name_generator:
+    first_name:
+      male: { "Tiaoali": 1, "Moimoi": 1, "Benjamin": 1, "Daru": 1, "Sam": 1, "Ulufanua": 1, "Junior": 1, "Liatama": 1, "Penu": 1, "Ryan": 1, "Henry": 1, "Moe": 1, "Misi": 1, "Frederick": 1, "Puni": 1, "Gene": 1, "Ailao": 1, "Rambo": 1, "Uasila'a": 1, "Nicky": 1, "Johnny": 1, "Justin": 1, "Tala": 1, "Terrence": 1, "Rawlston": 1, "Natia": 1, "Ramin": 1, "Ismael": 1, "Kid": 1, "Shalom": 1, "Charlie": 1, "Suani": 1 }
+    last_name: { "Savea": 1, "Tualaulelei": 1, "Fualaga": 1, "Taumua": 1, "Samuelu": 1, "Maliko": 1, "Mikaele": 1, "Amisone": 1, "Satele": 1, "Lameta": 1, "Kuresa": 1, "Tuitamai": 1, "Maiava": 1, "Neemia": 1, "Tapui": 1, "Heleta": 1, "Salapu": 1, "Saelua": 1, "Manao": 1, "Luvu": 1, "Sinapati": 1, "Masaniai": 1, "Natia": 1, "Ott": 1, "Herrera": 1, "Bartley": 1, "Luani": 1, "Uhrle": 1, "Uelese": 1 }

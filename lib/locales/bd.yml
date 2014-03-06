@@ -1,0 +1,5 @@
+bd:
+  name_generator:
+    first_name:
+      male: { "Shah": 1, "Handa": 1, "Syed": 1, "Mohammed": 1, "Mohamadi": 1, "Rahman": 1, "Kamal": 1, "Da": 1, "Ishak": 1, "Zaid": 1, "Tarik": 1, "Zack": 1, "Janal": 1, "Zurib": 1, "Nazrul": 1, "Hilman": 1, "Biplob": 1, "Enamul": 1, "Kazi": 1, "Manumul": 1, "Pranotosh": 1, "Mohammad": 1, "Mehedi": 1, "Arif": 1, "Yussif": 1, "Abul": 1, "Hedayetullah": 1, "Jahied": 1 }
+    last_name: { "Rahman": 1, "Uzzol": 1, "Yussif": 1, "Yusufa": 1, "Faisal": 1, "Syuib": 1, "Islam": 1, "Mariq": 1, "Kamil": 1, "Hussein": 1, "Mehedi": 1, "Samsa": 1, "Iman": 1, "Ariq": 1, "Bhattacharjee": 1, "Haq": 1, "Sujan": 1, "Shoyeb": 1, "Das": 1, "Chowdhary": 1, "Sazib": 1, "Khan": 1, "Samad": 1, "Hossain": 1, "Awudu": 1, "Tariq": 1, "Alam": 1, "Hassan": 1 }

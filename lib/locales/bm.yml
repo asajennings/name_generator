@@ -1,0 +1,5 @@
+bm:
+  name_generator:
+    first_name:
+      male: { "Khano": 1, "Nahki": 1, "Ricardo": 1, "Che": 1, "Joshua": 1, "Darius": 1, "Kijuan": 1, "Zekiro": 1, "Jesse": 1, "Sean": 1, "Kwame": 1, "Tumaini": 1, "Moses": 1, "Kori": 1, "Kor-von": 1, "Damico": 1, "Aljame": 1, "Mark": 1, "Taurean": 1, "Dwayne": 1, "Kyle": 1, "Freddy": 1, "Tahj": 1, "Tyrell": 1, "Kamen": 1, "Devare": 1, "Lashun": 1, "Rakeem": 1, "Jahmel": 1, "Drewonde": 1, "Wayne": 1, "Antwan": 1, "Troy": 1, "Cecoy": 1, "Idrees": 1, "Wendell": 1, "Logan": 1, "Stephen": 1, "Lyndon": 1, "Shayne": 1, "Keith": 1, "Kevin": 1, "Angelo": 1 }
+    last_name: { "Smith": 1, "Wells": 1, "Brangman": 1, "Clarke": 1, "Butterfield": 1, "Cox": 1, "Franks": 1, "White": 1, "Seymour": 1, "Steede": 1, "Goddard": 1, "Tucker": 1, "Coddington": 1, "Zuill": 1, "Maunders": 1, "Leverock": 1, "Lightbourne": 1, "Hall": 1, "Bell": 1, "Burgess": 1, "Tankard": 1, "Dill": 1, "Deshields": 1, "Swan": 1, "Bascome": 1, "Bean": 1, "Russell": 1, "Robinson": 1, "Sharrieff": 1, "Ming": 1, "Alexander": 1, "Astwood": 1, "Hollis": 1, "Jennings": 1, "Richards": 1, "Simmons": 1 }
