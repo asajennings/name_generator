@@ -21,8 +21,8 @@ module NameGenerator
       @locale || I18n.locale.downcase
     end
 
-    def name_data
-      translate "name_generator.#{@key}"
+    def name_data(options={})
+      translate "name_generator.#{options.fetch(:key, @key)}"
     end
 
     def max_probability
@@ -38,6 +38,14 @@ module NameGenerator
 
     def translate(key)
       I18n.translate key, locale: locale, default: {}
+    end
+
+    def has_standalone?
+      name_data( key: :standalone_name ).empty?
+    end
+
+    def only_standalone?
+      name_data( key: :first_name ).empty? || name_data( key: :last_name ).empty?
     end
   end
 end

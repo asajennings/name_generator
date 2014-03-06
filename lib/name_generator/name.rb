@@ -2,9 +2,21 @@ module NameGenerator
   class Name < Base
     def generate
       options = { locale: locale }
-      first_name = FirstName.new(options).generate
-      last_name = LastName.new(options).generate
-      if first_name.present? && last_name.present? then "#{first_name} #{last_name}" else "#{StandaloneName.new(options).generate}" end
+      if only_standalone?
+        standalone
+      elsif has_standalone?
+        self.send [:first_last, :first_last, :standalone].sample
+      else
+        first_last
+      end
+    end
+
+    def standalone
+      StandaloneName.new(options).generate
+    end
+
+    def first_last
+      "#{FirstName.new(options).generate} #{LastName.new(options).generate}"
     end
   end
 end
