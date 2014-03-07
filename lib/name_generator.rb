@@ -31,8 +31,9 @@ module NameGenerator
 
     def fetch(key)
       @key = key
+      r = rand(0..max_probability)
       name_data.
-        select { |k,v| v >= rand(0..max_probability) }.keys.sample.
+        select { |k,v| v >= r }.keys.sample.
         to_s.gsub("\302\240", ' ').strip.capitalize
     end
 
