@@ -22,6 +22,7 @@ module NameGenerator
     end
 
     def name_data(options={})
+      p "key is #{options.fetch(:key, @key)}"
       translate "name_generator.#{options.fetch(:key, @key)}"
     end
 
