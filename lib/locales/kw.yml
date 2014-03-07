@@ -1,0 +1,5 @@
+kw:
+  name_generator:
+    first_name:
+      male: { "Hameed": 1, "Hashim": 1, "Majed": 1, "Ahmad": 1, "Abdullah": 1, "Mohammed": 1, "Hashem": 1, "Hamad": 1, "Nawaf": 1, "Saleh": 1, "Muhannad": 1, "Abdulrahman": 1, "Abbas": 1, "Mahdi": 1, "Youssef": 1, "Ali": 1 }
+    last_name: { "Al Qallaf": 1, "Adnan": 1, "Abusidu": 1, "Hani": 1, "Al Taher": 1, "Jassem": 1, "Al Ramzi": 1, "Humoud": 1, "Osama": 1, "Al Jomaa": 1, "Al Ansari": 1, "Al Awadi": 1, "Saleh": 1, "Najaf": 1, "Al Mutairi": 1, "Al Fadhli": 1, "Al Eidan": 1 }

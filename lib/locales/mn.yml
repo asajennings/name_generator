@@ -1,0 +1,5 @@
+mn:
+  name_generator:
+    first_name:
+      male: { "Tseveensuren": 1, "Ariunbold": 1, "Batbold": 1, "Olzvoi": 1, "Donorov": 1, "Bayasgalangiin": 1, "Tserenjav": 1, "Selenge": 1, "Ganbat": 1, "Altankhuu": 1, "Anar": 1 }
+    last_name: { "Ganbayar": 1, "Batsaikhan": 1, "Agvaan": 1, "Ochbayar": 1, "Lumbengarav": 1, "Garidmagnai": 1, "Enkhjargal": 1, "Odkhuu": 1, "Bekhbat": 1, "Munkhbaatar": 1, "Batchuluun": 1 }

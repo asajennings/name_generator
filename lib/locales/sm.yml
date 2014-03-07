@@ -1,0 +1,5 @@
+sm:
+  name_generator:
+    first_name:
+      male: { "Mattia": 1, "Michele": 1, "Lorenzo": 1, "Nicola": 1, "Danilo": 1, "Gianluca": 1, "Elia": 1, "Michael": 1, "Fabio": 1, "Mario": 1, "Daniele": 1, "Davide": 1, "Alessandro": 1 }
+    last_name: { "Berardi": 1, "Zanotti": 1, "Forcellini": 1, "Cavalli": 1, "Rinaldi": 1, "Bollini": 1, "Zafferani": 1, "Giovagnoli": 1, "Casali": 1, "Fucili": 1, "Mularoni": 1, "Guidi": 1 }

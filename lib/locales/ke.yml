@@ -1,0 +1,5 @@
+ke:
+  name_generator:
+    first_name:
+      male: { "Patrick": 1, "Ezekiel": 1, "Martin": 1, "Edwin": 1, "Oscar": 1, "Allan": 1, "Charles": 1, "Mike": 1, "Simeon": 1, "Samuel": 1, "Amon": 1, "Barnabas": 1, "Emmanuel": 1, "Bernard": 1, "Victor": 1, "Eric": 1, "Paul": 1, "Raul": 1, "Brian": 1 }
+    last_name: { "Matasi": 1, "Seda": 1, "Imbalambala": 1, "Barasa": 1, "Kadenge": 1, "Wanga": 1, "Okwemba": 1, "Lusaka": 1, "Mwangi": 1, "Muchiri": 1, "Tiema": 1, "Tostao": 1, "Ochieng": 1, "Masika": 1, "Were": 1, "Shaban": 1, "Masiolo": 1 }

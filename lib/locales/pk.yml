@@ -1,0 +1,5 @@
+pk:
+  name_generator:
+    first_name:
+      male: { "Jaffar": 1, "Amir": 1, "Yousef": 1, "Samar": 1, "Yacoob": 1, "Zesh": 1, "Mohammed": 1, "Manzoor": 1, "Kamran": 1, "Nabil": 1, "Shabir": 1, "Atit": 1, "Omar": 1, "Adnan": 1 }
+    last_name: { "Abbasi": 1, "Afridi": 1, "Ahmadi": 1, "Arain": 1, "Azizi": 1, "Baloch": 1, "Bhatti": 1, "Butt": 1, "Chandyo": 1, "Chaudhri": 1, "Chodary": 1, "Chouhan": 1, "Chughtai": 1, "Hossaini": 1, "Hussain": 1, "Hussaini": 1, "Jaffri": 1, "Jilani": 1, "Jinnah": 1, "Khan": 1, "Khanzada": 1, "Khurshid": 1, "Khwaja": 1, "Malhi": 1, "Malik": 1, "Mohamadi": 1, "Mohamed": 1, "Mughal": 1, "Muhammad": 1, "Orakzai": 1, "Qazi": 1, "Qureshi": 1, "Rahman": 1, "Raja": 1, "Rana": 1, "Rehman": 1, "Reza": 1, "Sabzwari": 1, "Shah": 1, "Shamsi": 1, "Sheikh": 1, "Siddiqui": 1, "Syed": 1, "Tiwana": 1, "Yosufzai": 1 }

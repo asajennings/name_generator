@@ -1,0 +1,5 @@
+so:
+  name_generator:
+    first_name:
+      male: { "Liban": 1, "Mohamed": 1, "Muhammad": 1, "Osman": 1, "Salad": 1, "Fuad": 1, "Ahmed": 1, "Abdi": 1, "Yusuf": 1 }
+    last_name: { "Hussein": 1, "Ali": 1, "Hersi": 1, "Maalin": 1, "Gabow": 1, "Samatar": 1, "Shuqul": 1, "Hoosh": 1, "Haaji": 1, "Cumar": 1, "Aziz": 1, "Egal": 1, "Haji": 1 }

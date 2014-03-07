@@ -1,0 +1,5 @@
+kn:
+  name_generator:
+    first_name:
+      male: { "Akil": 1, "Jason": 1, "Kareem": 1, "Alston": 1, "Olando": 1, "Alexis": 1, "Kesto": 1, "Shashi": 1, "Ian": 1, "James": 1, "Kennedy": 1, "Keithroy": 1, "Oldain": 1, "Elcardo": 1, "Shamari": 1, "Oje": 1, "Sereste": 1 }
+    last_name: { "Byron": 1, "Isaac": 1, "Mitchum": 1, "Francis": 1, "Saddler": 1, "Pettice": 1, "Skeete": 1, "Isles": 1, "Powell": 1, "Jacobs": 1, "Samuel": 1, "Jones": 1, "Richards": 1 }

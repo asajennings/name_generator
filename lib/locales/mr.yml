@@ -1,0 +1,5 @@
+mr:
+  name_generator:
+    first_name:
+      male: { "Souleymane": 1, "Oumar": 1, "Samba": 1, "Abdelaziz": 1, "Babacar": 1, "Keita": 1, "Ibrahima": 1, "Mamadou": 1, "Dahmed": 1, "Yoann": 1, "Lemine": 1, "El Hadj": 1, "Amar": 1, "Ali Mohamed": 1, "Mohamed": 1 }
+    last_name: { "Diallo": 1, "Niang": 1, "Gueye": 1, "Kamara": 1, "Coulibaly": 1, "Mohamed": 1, "Mamadou": 1, "Idrissa": 1, "Teguiedi": 1, "Langlet": 1, "Cherif": 1, "Moctar": 1, "Samb": 1, "Yahya": 1, "Ba": 1 }

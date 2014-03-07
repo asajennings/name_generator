@@ -1,0 +1,5 @@
+ps:
+  name_generator:
+    first_name:
+      male: { "Hani": 1, "Ismael": 1, "Khaled": 1, "Atef": 1, "Toufic": 1, "Said": 1, "Khader": 1, "Ashraf": 1, "Suleiman": 1, "Ahmed": 1, "Eyad": 1 }
+    last_name: { "Bilal": 1, "Qasem": 1, "Salem": 1, "Ali": 1, "Al-Sobakhi": 1, "Youssef": 1, "Nu'man": 1, "Mahdi": 1, "Obeid": 1, "Harbi": 1, "Abugharqud": 1 }

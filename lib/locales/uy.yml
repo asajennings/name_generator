@@ -1,0 +1,5 @@
+uy:
+  name_generator:
+    first_name:
+      male: { "Diego": 1, "Esteban": 1, "Leonel": 1, "Federico": 1, "Gonzalo": 1, "Gaston": 1, "Jesus": 1, "Danilo": 1, "Gabriel": 1, "Matias": 1, "Emiliano": 1, "Marcelo": 1, "Jorge": 1, "Agustin": 1, "Haibrany": 1, "Pablo": 1, "Damian": 1, "Ignacio": 1, "Gerardo": 1, "Ricardo": 1, "Mauricio": 1 }
+    last_name: { "Martinez": 1, "Maga": 1, "Pilipauskas": 1, "Diaz": 1, "Freitas": 1, "Pagano": 1, "Belase": 1, "Peinado": 1, "Costa": 1, "Abisab": 1, "Denis": 1, "Martuciello": 1, "Casanova": 1, "Viana": 1, "Gutierrez": 1, "Lemmo": 1, "Gasanol": 1, "Asqueta": 1, "Vargas": 1, "Nanni": 1, "Demeno": 1, "Barara": 1 }

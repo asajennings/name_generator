@@ -1,0 +1,5 @@
+mv:
+  name_generator:
+    first_name:
+      male: { "Mohamed": 1, "Imran": 1, "Ahmed": 1, "Rilwan": 1, "Akram": 1, "Sahafiu": 1, "Moosa": 1, "Ismael": 1 }
+    last_name: { "Imran": 1, "Mohamed": 1, "Abdulla": 1, "Shifan": 1, "Waheed": 1, "Ghanee": 1, "Ahmed": 1, "Rasheed": 1, "Umair": 1, "Niyaz": 1, "Yaamin": 1, "Arif": 1 }

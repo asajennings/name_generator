@@ -1,0 +1,5 @@
+py:
+  name_generator:
+    first_name:
+      male: { "Roberto": 1, "Cesar": 1, "Alexis": 1, "Pedro": 1, "Guillermo": 1, "Julio": 1, "Carlos": 1, "Victor": 1, "Luis": 1, "Fidencio": 1, "Jonathan": 1, "Jorge": 1, "Alejandro": 1, "Santiago": 1, "Jose Domingo": 1, "Angel": 1, "Pablo": 1, "Edgar": 1, "Oscar": 1 }
+    last_name: { "Acosta": 1, "Ayala": 1, "Baez": 1, "Benitez": 1, "Caceres": 1, "Cardoza": 1, "Cardozo": 1, "Duarte": 1, "Fernandez": 1, "Ferreira": 1, "Franco": 1, "Galeano": 1, "Giminez": 1, "Gomez": 1, "Gonzales": 1, "Lopez": 1, "Martinez": 1, "Nunez": 1, "Ortiz": 1, "Ramirez": 1, "Rodriguez": 1, "Rojas": 1, "Ruiz": 1, "Torrez": 1, "Vera": 1, "Villalba": 1, "Gonzalez": 1, "Beltran": 1, "Dos Santos": 1, "Bonet": 1, "Baretto": 1, "Mareco": 1, "Oviedo": 1, "Fabbro": 1, "Da Silva": 1, "Salcedo": 1, "Espinola": 1, "Gavilan": 1, "Romero": 1 }

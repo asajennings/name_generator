@@ -1,0 +1,5 @@
+ph:
+  name_generator:
+    first_name:
+      male: { "Paolo": 1, "Matthew": 1, "Misagh": 1, "Patrick": 1, "Denis": 1, "Marwin": 1, "Marvin": 1, "Jeffrey": 1, "Lexter": 1, "Jerry": 1, "Jeremy": 1, "David": 1, "Aaron": 1, "Nino": 1 }
+    last_name: { "Pascual": 1, "Uy": 1, "Bahadoran": 1, "de Murga": 1, "Reichelt": 1, "Wolf": 1, "Angeles": 1, "Madayag": 1, "Christiaens": 1, "Maravilla": 1, "Barbaso": 1, "Theuer": 1, "Basa": 1, "Altiche": 1 }

@@ -1,0 +1,5 @@
+tg:
+  name_generator:
+    first_name:
+      male: { "Blaise": 1, "Sadate": 1, "Ayao": 1, "Tchibiakou": 1, "Kodjo": 1, "Abibou": 1, "Joseph": 1, "Chieck": 1, "Ouro": 1, "Koupossitiere": 1, "Kouloum": 1, "Liyabe": 1, "Passayi": 1, "Claude": 1 }
+    last_name: { "Kouma": 1, "Akoriko": 1, "Foly": 1, "Doevi": 1, "Doumassesse": 1, "Mouhamadou": 1, "Kokou": 1, "Diallo": 1, "Abass": 1, "Camara": 1, "Manguillibe": 1, "Kpatoumbi": 1, "Bazamam": 1, "Houega": 1 }

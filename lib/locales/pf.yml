@@ -1,0 +1,5 @@
+pf:
+  name_generator:
+    first_name:
+      male: { "Stephane": 1, "Pierre": 1, "Heimano": 1, "Tuafa": 1, "Tetiamana": 1, "Hiva": 1, "Robert": 1, "Lorenzo": 1, "Sebastian": 1, "Tauraa": 1, "Angelo": 1 }
+    last_name: { "Faatiarau": 1, "Kugogne": 1, "Bourebare": 1, "Neuffer": 1, "Marmouyet": 1, "Kamoise": 1, "Chang": 1, "Tehau": 1, "Labayen": 1, "Tchen": 1, "Samin": 1 }

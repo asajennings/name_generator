@@ -1,0 +1,5 @@
+uz:
+  name_generator:
+    first_name:
+      male: { "Eldor": 1, "Sherzod": 1, "Shavkat": 1, "Maqsud": 1, "Botir": 1, "Jahongir": 1, "Kenja": 1, "Nodir": 1, "Azamat": 1, "Alisher": 1, "Erkin": 1 }
+    last_name: { "Suyunov": 1, "Azamov": 1, "Raimqulov": 1, "Karimov": 1, "Qoraev": 1, "Turaev": 1, "Sanakulov": 1, "Yusupov": 1, "Nematov": 1, "Gadoev": 1, "Yunusov": 1 }

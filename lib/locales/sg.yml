@@ -1,0 +1,5 @@
+sg:
+  name_generator:
+    first_name:
+      male: { "Izwan": 1, "Shakir": 1, "Faris": 1, "Isa": 1, "Baihakki": 1, "Madhu": 1, "Gabriel": 1, "Hafiz": 1, "Faritz": 1, "Fazrul": 1, "Safirul": 1, "Izzdin": 1, "Hariss": 1, "Zulfahmi": 1, "Raihan": 1 }
+    last_name: { "Mahbud": 1, "Hamzah": 1, "Halim": 1, "Khaizan": 1, "Mohana": 1, "Quak": 1, "Sujad": 1, "Hameed": 1, "Sulaiman": 1, "Shafiq": 1, "Harun": 1, "Arifin": 1, "Rahman": 1, "Khalid": 1, "Shah": 1 }

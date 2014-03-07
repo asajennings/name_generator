@@ -1,0 +1,5 @@
+ly:
+  name_generator:
+    first_name:
+      male: { "Samir": 1, "Abdulaziz": 1, "Waleed": 1, "Younes": 1, "Meftah": 1, "Ali": 1, "Hesham": 1, "Marwan": 1, "Abdulnaser": 1, "Taher": 1, "Ossama": 1, "Abdusalam": 1, "Riyadh": 1, "Ahmed": 1, "Abdulhakeem": 1, "Muhammad": 1 }
+    last_name: { "Aboud": 1, "Belreesh": 1, "Hadloul": 1, "Mhadeb": 1, "Shibani": 1, "Ghazalla": 1, "Rahuma": 1, "Shaban": 1, "Mabrouk": 1, "Slil": 1, "Shatiba": 1, "Msallam": 1, "Al Laafi": 1, "Al Alwaani": 1, "Al Soudani": 1, "Qanaou": 1 }

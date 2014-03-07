@@ -1,0 +1,5 @@
+sr:
+  name_generator:
+    first_name:
+      male: { "Romano": 1, "Ronny": 1, "Furgill": 1, "Jurmen": 1, "Orpheo": 1, "Guno": 1, "Sergio": 1, "Quincy": 1, "Vernon": 1, "Milton": 1, "Joel": 1, "Emilio": 1 }
+    last_name: { "Vallei": 1, "Mayland": 1, "Kwasie": 1, "Wielzen": 1, "Etnel": 1, "Baja": 1, "Koenders": 1, "Wondel": 1, "Waal": 1, "Sordam": 1, "Stekkel": 1, "Talea": 1 }

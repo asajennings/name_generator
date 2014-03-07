@@ -1,0 +1,5 @@
+kg:
+  name_generator:
+    first_name:
+      male: { "Pavel": 1, "Vladislav": 1, "Valery": 1, "Rustem": 1, "Farrukh": 1, "Ruslan": 1, "Vyacheslav": 1, "Talant": 1, "Rustam": 1, "Vitaly": 1, "Evgeniy": 1, "Artem": 1, "Roman": 1 }
+    last_name: { "Matiash": 1, "Volkov": 1, "Kashuba": 1, "Usanov": 1, "Abitov": 1, "Sydykov": 1, "Amin": 1, "Samsaliev": 1, "Zakirov": 1, "Timofeev": 1, "Malinin": 1, "Mulajanov": 1, "Ablakimov": 1 }

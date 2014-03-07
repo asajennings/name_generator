@@ -1,0 +1,5 @@
+sy:
+  name_generator:
+    first_name:
+      male: { "Mahmoud": 1, "Samer": 1, "Abd": 1, "Taha": 1, "Ali": 1, "Ammar": 1, "Mohammad": 1, "Shefan": 1, "Amer": 1, "Ayman": 1, "Tark": 1, "Zain": 1 }
+    last_name: { "Karkar": 1, "Awad": 1, "Hasan": 1, "Dyab": 1, "Zakour": 1, "Abadi": 1, "Al Kaddour": 1, "Ousi": 1, "Abid": 1, "Asaad": 1, "Qashit": 1, "Al Fandi": 1, "Naji": 1 }

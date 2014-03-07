@@ -1,0 +1,5 @@
+lk:
+  name_generator:
+    first_name:
+      male: { "Weerasinghe": 1, "Bandara": 1, "Rohana": 1, "Chamira": 1, "Dilki": 1, "Fazlur": 1, "Janaka": 1, "Mohamed": 1, "Danushka": 1, "Tuwan": 1, "Nagur": 1, "Chathura": 1, "Lahiru": 1 }
+    last_name: { "Buddika": 1, "Ruwanthilake": 1, "Warakagoda": 1, "Krishantha": 1, "Rahman": 1, "Nazar": 1, "Wijesiri": 1, "Izzadeen": 1, "Gunaratne": 1, "Tharaka": 1, "Pushpakumara": 1, "Kaiz": 1, "Sundarshana": 1, "Priyankara": 1 }

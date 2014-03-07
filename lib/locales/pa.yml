@@ -1,0 +1,5 @@
+pa:
+  name_generator:
+    first_name:
+      male: { "Miguel": 1, "Marvin": 1, "Alejandro": 1, "Nahil": 1, "Orlando": 1, "Armando": 1, "Jose": 1, "David": 1, "Francisco": 1, "Victor": 1, "Angel": 1, "Luis": 1, "Jair": 1, "Enrique": 1 }
+    last_name: { "Lloyd": 1, "Mitchell": 1, "Velez": 1, "Carroll": 1, "Mosquera": 1, "Rodriguez": 1, "Cooper": 1, "Justavinho": 1, "Castaneda": 1, "Mendieta": 1, "Gondola": 1, "Medina": 1, "Camargo": 1 }

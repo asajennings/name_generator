@@ -1,0 +1,7 @@
+mo:
+  name_generator:
+    first_name:
+      male: { "Leong": 1, "Yap": 1, "Chau": 1, "Ho": 1, "Lai": 1, "Mak": 1, "Cheang": 1, "Cheok": 1, "Chan": 1 }
+    middle_name:
+      male: { "Chon": 1, "Keng": 1, "Koi": 1, "Lap": 1, "Wai": 1, "Chan": 1, "Veng": 1, "Kwok": 1, "Ka": 1, "Hou": 1, "Iok": 1 }
+    last_name: { "Kit": 1, "Pak": 1, "Wa": 1, "San": 1, "Tong": 1, "Pong": 1, "Fai": 1, "Ho": 1, "Chon": 1, "Man": 1, "Kei": 1, "Seng": 1 }

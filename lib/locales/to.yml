@@ -1,0 +1,5 @@
+to:
+  name_generator:
+    first_name:
+      male: { "Kaneti": 1, "Soane": 1, "Heneli": 1, "Samisoni": 1, "Folio": 1, "Matana": 1, "Petesa": 1, "Aleki": 1, "Beni": 1, "Vitolio": 1, "Unaloto": 1 }
+    last_name: { "Felela": 1, "Faupula": 1, "Sa'afi": 1, "Mafi": 1, "Moeaki": 1, "Paongo": 1, "Onogosia": 1, "Fehoko": 1, "Pau": 1, "Latu": 1, "Feao": 1 }

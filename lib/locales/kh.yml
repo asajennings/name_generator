@@ -1,0 +1,5 @@
+kh:
+  name_generator:
+    first_name:
+      male: { "Samreth": 1, "Thourng": 1, "Leng": 1, "Kouch": 1, "Khim": 1, "Ouk": 1, "Thierry": 1, "Mart": 1, "Chea": 1, "Pheak": 1, "Vi": 1, "Bouy": 1, "Men": 1, "Sps": 1, "Kok": 1, "Ly": 1, "Yok": 1, "Tin": 1, "Hong": 1, "Ngoy": 1, "Mak": 1, "Chhom": 1 }
+    last_name: { "Seiha": 1, "Da": 1, "Narin": 1, "Dani": 1, "Borey": 1, "Sothy": 1, "Bin": 1, "Sokumpheak": 1, "Hasan": 1, "Dara": 1, "Rady": 1, "Lika": 1, "Dary": 1, "Seyha": 1, "Suhana": 1, "Boris": 1, "Morslim": 1, "Ary": 1, "Makara": 1, "Kano": 1, "Pheng": 1, "Srin": 1, "Chamrouen": 1, "Phearun": 1, "Pisa": 1 }

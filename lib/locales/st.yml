@@ -1,0 +1,5 @@
+st:
+  name_generator:
+    first_name:
+      male: { "Dungue": 1, "Nilson": 1, "Girael": 1, "Agilson": 1, "Osvaldo": 1, "Kilson": 1, "Denilson": 1, "Odair": 1, "Francisco": 1, "Adilson": 1, "Joazhifel": 1, "Ibraimo": 1 }
+    last_name: { "Lima": 1, "Taty": 1, "Pedroso": 1, "Sole": 1, "Eduardo": 1, "Capela": 1, "Ceita": 1, "Afonso": 1, "Bom": 1, "Nascimento": 1, "Mendes": 1, "Bengo": 1 }

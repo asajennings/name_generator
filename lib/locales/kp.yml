@@ -1,0 +1,5 @@
+kp:
+  name_generator:
+    first_name:
+      male: { "Ri": 1, "Pak": 1, "Jong": 1, "Jang": 1, "An": 1, "Kim": 1, "Ju": 1 }
+    last_name: { "Myong-Guk": 1, "Nam-Chol": 1, "Kwang-Chon": 1, "Sng-Chol": 1, "Chol-Myong": 1, "Kwang-Ryong": 1, "Il-Gwan": 1, "Kwang-Ik": 1, "Myong-Il": 1, "Hyon-Song": 1, "Yong-Hak": 1, "Myong-Gil": 1, "Kuk-Chol": 1, "Kwang-Hyok": 1, "Kwang-Min": 1, "Song-Chol": 1, "Song-Hyok": 1, "Il-Jin": 1, "Ju-Song": 1 }

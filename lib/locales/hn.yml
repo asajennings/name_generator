@@ -1,0 +1,5 @@
+hn:
+  name_generator:
+    first_name:
+      male: { "Yul": 1, "Nahun": 1, "Uberdy": 1, "Enil": 1, "Wilfredo": 1, "Elder": 1, "Franco": 1, "Mauricio": 1, "Felix": 1, "Alex": 1, "Rony": 1, "Aldo": 1, "Erick": 1, "Johnny": 1, "Marvin": 1, "Maximo": 1, "Fayron": 1, "Israel": 1, "Gerson": 1, "Ricardo": 1, "Roy": 1, "Juan": 1, "Gary": 1, "Geraldo": 1, "Derick": 1, "Bayron": 1, "Jose": 1, "Larry": 1, "Jonny": 1 }
+    last_name: { "Arzu": 1, "Avila": 1, "Garcia": 1, "Turcios": 1, "Barahona": 1, "Valladares": 1, "Hernandez": 1, "Guity": 1, "Castro": 1, "Alvarez": 1, "Andino": 1, "Tabora": 1, "Gallardo": 1, "Martinez": 1, "Melendez": 1, "Sanchez": 1, "Miranda": 1, "Solis": 1, "Benitez": 1, "Ortez": 1, "Zelaya": 1, "Canales": 1, "Posas": 1, "Raudales": 1, "Escoto": 1, "Drummond": 1, "Prado": 1, "Menjivar": 1, "Ordonez": 1, "Estrada": 1 }

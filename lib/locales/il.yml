@@ -1,0 +1,5 @@
+il:
+  name_generator:
+    first_name:
+      male: { "Ariel": 1, "Eli": 1, "Haim": 1, "Tal": 1, "Matan": 1, "Amit": 1, "Hen": 1, "Shmuel": 1, "Shai": 1, "Evyatar": 1, "Zahi": 1, "Avi": 1, "Kobi": 1, "Ohad": 1, "Ofir": 1, "Omer": 1, "Barak": 1, "Eran": 1 }
+    last_name: { "Adrei": 1, "Alon": 1, "Amar": 1, "Ashkenazi": 1, "Avraham": 1, "Azulai": 1, "Ben-David": 1, "Biton": 1, "Boker": 1, "Canaan": 1, "Chazan": 1, "Chen": 1, "Cohen": 1, "Dagan": 1, "Dahan": 1, "Danieli": 1, "Daniely": 1, "Dar": 1, "David": 1, "Doron": 1, "Ewen": 1, "Friedman": 1, "Gabai": 1, "Gal": 1, "Geffen": 1, "Gill": 1, "Golan": 1, "Goshen": 1, "Hadad": 1, "Hai": 1, "Harel": 1, "Kattan": 1, "Katz": 1, "Klein": 1, "Levi": 1, "Levin": 1, "Luz": 1, "Malach": 1, "Manor": 1, "Mizrachi": 1, "Morad": 1, "Moshe": 1, "Nagar": 1, "Nevel": 1, "Nissan": 1, "Noah": 1, "Noy": 1, "Ochion": 1, "Ohayon": 1, "Oren": 1, "Peretz": 1, "Porath": 1, "Ram": 1, "Reuben": 1, "Ron": 1, "Ronen": 1, "Rozen": 1, "Segel": 1, "Shalom": 1, "Shapira": 1, "Sharon": 1, "Shira": 1, "Shirah": 1, "Tal": 1, "Vardy": 1, "Yitzchak": 1, "Yosef": 1, "Ziv": 1, "Zur": 1 }

@@ -1,0 +1,5 @@
+vc:
+  name_generator:
+    first_name:
+      male: { "Ronnell": 1, "Shorn": 1, "Justin": 1, "Shemol": 1, "Joel": 1, "Desborn": 1, "Norrel": 1, "Dorren": 1, "Anthonian": 1, "Howie": 1, "Ronsil": 1, "Leon": 1, "Akeeno": 1 }
+    last_name: { "Hunt": 1, "Lowman": 1, "Stapleton": 1, "George": 1, "Lavia": 1, "Douglas": 1, "Williams": 1, "Badnock": 1, "Louraine": 1, "Olliver": 1, "Hazelwood": 1 }

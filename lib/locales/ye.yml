@@ -1,0 +1,5 @@
+ye:
+  name_generator:
+    first_name:
+      male: { "Abdulwahab": 1, "Nashwan": 1, "Raed": 1, "Alawi": 1, "Faisal": 1, "Aiman": 1, "Yanof": 1, "Gehad": 1, "Abdulrahman": 1, "Ali": 1 }
+    last_name: { "Mohammed": 1, "Abdullah": 1, "Al-Hetar": 1, "Fadaaq": 1, "Hurmuz": 1, "Mahdi": 1, "Dahrog": 1, "Ahmed": 1, "Kumaim": 1, "Al-Qadasi": 1, "Al-Mudem": 1 }

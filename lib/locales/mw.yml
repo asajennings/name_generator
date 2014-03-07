@@ -1,0 +1,5 @@
+mw:
+  name_generator:
+    first_name:
+      male: { "Owen": 1, "Sankhani": 1, "George": 1, "Keston": 1, "Peter": 1, "Fisher": 1, "Fundi": 1, "Mude": 1, "Douglas": 1, "Henry": 1 }
+    last_name: { "Chaima": 1, "Nyirenda": 1, "Kasonda": 1, "Mpulula": 1, "Akidu": 1, "Jefrey": 1, "Chirambo": 1, "Nota": 1, "Sanudi": 1, "Kabichi": 1, "Chonde": 1 }

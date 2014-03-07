@@ -1,0 +1,7 @@
+my:
+  name_generator:
+    first_name:
+      male: { "Mohd": 1, "Adib": 1, "Afiq": 1, "Mahali": 1, "Wan": 1 }
+    middle_name:
+      male: { "Fairul": 1, "Azwan": 1, "Fairuz": 1, "Abdul": 1, "Nasriq": 1, "Aizuddin": 1, "Shukor": 1, "Bunyamin": 1, "Raimi": 1, "Amri": 1, "Hoesne": 1, "Ramzul": 1, "Syazwan": 1, "Allawee": 1 }
+    last_name: { "Shahrullail": 1, "Aziz": 1, "Baharom": 1, "Latif": 1, "Jusoh": 1, "Omar": 1, "Nor": 1, "Gurusamy": 1, "Yahyah": 1, "Jasuli": 1, "Adnan": 1, "Raduwan": 1, "Ramli": 1 }

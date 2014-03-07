@@ -1,0 +1,5 @@
+ls:
+  name_generator:
+    first_name:
+      male: { "Kholuoe": 1, "Mohau": 1, "Liteboho": 1, "Thabiso": 1, "Moitheri": 1, "Thapelo": 1, "Thabo": 1, "Nkau": 1, "Tumelo": 1, "Tshoanelo": 1, "Ralekoti": 1, "Motlalepula": 1, "Bushi": 1, "Katleho": 1 }
+    last_name: { "Phasumane": 1, "Koenane": 1, "Mokhesi": 1, "Maile": 1, "Ntobo": 1, "Mokhele": 1, "Masualle": 1, "Lerotholi": 1, "Bereng": 1, "Koetle": 1, "Mofolo": 1, "Moletsane": 1, "Moleko": 1 }

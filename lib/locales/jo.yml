@@ -1,0 +1,5 @@
+jo:
+  name_generator:
+    first_name:
+      male: { "Abdel-Ilah": 1, "Ibrahim": 1, "Hassouneh": 1, "Mohammed": 1, "Yusuf": 1, "Ashraf": 1, "Khaldoun": 1, "Abdel": 1, "Khalil": 1, "Shareef": 1, "Anas": 1, "Hatem": 1, "Khader": 1, "Amer": 1, "Hussein": 1, "Bilal": 1, "Tamer": 1, "Abdullah": 1, "Sa'ed": 1, "Samer": 1, "Hameed": 1, "Hashim": 1, "Majed": 1, "Ahmad": 1, "Hashem": 1, "Hamad": 1, "Nawaf": 1, "Saleh": 1, "Muhannad": 1, "Abdulrahman": 1, "Abbas": 1, "Mahdi": 1, "Youssef": 1, "Ali": 1 }
+    last_name: { "Al-Amaireh": 1, "Al-Hanahneh": 1, "Qdais": 1, "Al-Zawahreh": 1, "Al-Sheikh": 1, "Khamees": 1, "Al-Naber": 1, "Nu'man": 1, "Al-Khawaldeh": 1, "Al-Maharmeh": 1, "Attiah": 1, "Hijah": 1, "Aqel": 1, "Yousef": 1, "Amer": 1, "Ziad": 1, "Shatnawi": 1, "Lawi": 1, "Khadra": 1, "Al-Saqri": 1, "Mohamad": 1, "Al-Attar": 1, "Al-Qatawneh": 1, "Wrikat": 1, "Al-Daboubi": 1, "Zuhair": 1, "Shawish": 1, "Samih": 1, "Al Qallaf": 1, "Adnan": 1, "Abusidu": 1, "Hani": 1, "Al Taher": 1, "Jassem": 1, "Al Ramzi": 1, "Humoud": 1, "Osama": 1, "Al Jomaa": 1, "Al Ansari": 1, "Al Awadi": 1, "Saleh": 1, "Najaf": 1, "Al Mutairi": 1, "Al Fadhli": 1, "Al Eidan": 1 }

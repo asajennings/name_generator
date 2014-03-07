@@ -1,0 +1,5 @@
+pr:
+  name_generator:
+    first_name:
+      male: { "Joao": 1, "John": 1, "Carlos": 1, "Alvaro": 1, "Andres": 1, "Raymond": 1, "Alex": 1, "Steven": 1, "Samuel": 1, "Nelson": 1, "Javier": 1, "Juan": 1, "Keith": 1 }
+    last_name: { "Mora": 1, "Palo": 1, "Sinisters": 1, "Rosario": 1, "Medina": 1, "Garcia": 1, "Cabrero": 1, "Estrada": 1, "Encarnacion": 1, "Lalondriz": 1, "Velez": 1, "Cabrera": 1, "Pavon": 1 }

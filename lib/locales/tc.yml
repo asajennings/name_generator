@@ -1,0 +1,5 @@
+tc:
+  name_generator:
+    first_name:
+      male: { "Kameron": 1, "Mickle": 1, "Samuel": 1, "Tom": 1, "Billy": 1, "Gregor": 1, "Ruddy": 1, "Sem": 1, "David": 1, "Scott": 1, "Matew": 1 }
+    last_name: { "McVey": 1, "Niklsson": 1, "McFors": 1, "Neil": 1, "Daffy": 1, "Farloor": 1, "Gronmacker": 1, "Henkler": 1, "Martins": 1, "Kollar": 1 }

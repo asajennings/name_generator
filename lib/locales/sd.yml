@@ -1,0 +1,5 @@
+sd:
+  name_generator:
+    first_name:
+      male: { "Najm": 1, "Mousa": 1, "Ahmed": 1, "Kelechi": 1, "Raji": 1, "Moseab": 1, "Balla": 1, "Akram": 1, "Amer": 1, "Nasr": 1 }
+    last_name: { "Abdullah": 1, "El Tayeb": 1, "El-Basha": 1, "Osunwa": 1, "Omer": 1, "Jabir": 1, "Salim": 1, "Kamal": 1, "Gafer": 1, "Mustafa": 1, "El Khider": 1 }

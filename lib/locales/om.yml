@@ -1,0 +1,5 @@
+om:
+  name_generator:
+    first_name:
+      male: { "Anwar": 1, "Waleed": 1, "Mohammed": 1, "Ashraf": 1, "Hussein": 1, "Adil": 1, "Akram": 1, "Hamdi": 1, "Hamid": 1, "Osama": 1, "Qasim": 1, "Bilal": 1, "Hassan": 1 }
+    last_name: { "Al-Alawi": 1, "Abdullah": 1, "Khamis": 1, "Eid": 1, "Mustahil": 1, "Matar": 1, "Al-Rawahi": 1, "Hubais": 1, "Fadhil": 1, "Said": 1, "Zayid": 1, "Zaher": 1 }

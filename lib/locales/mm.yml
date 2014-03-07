@@ -1,0 +1,7 @@
+mm:
+  name_generator:
+    first_name:
+      male: { "Thiha": 1, "Kyaw": 1, "Pyae": 1, "Zaw": 1, "Yan": 1, "Thet": 1, "Ye": 1, "Thein": 1, "Aung": 1, "Phyo": 1 }
+    middle_name:
+      male: { "Zin": 1, "Phyo": 1, "Min": 1, "Aung": 1, "Zaw": 1, "Than": 1, "Hein": 1, "Ko": 1, "Lin": 1, "Kyaw": 1 }
+    last_name: { "Aung": 1, "Tun": 1, "Win": 1, "Oo": 1, "Kyaw": 1, "Thein": 1, "Chit": 1, "Soe": 1, "Ko": 1, "Sithu": 1, "Latt": 1 }

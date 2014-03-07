@@ -1,0 +1,7 @@
+vn:
+  name_generator:
+    first_name:
+      male: { "Nguyen": 1, "Le": 1, "Ho": 1, "Ngo": 1, "Hoang": 1, "Tran": 1, "Phan": 1, "Que": 1 }
+    middle_name:
+      male: { "Huy": 1, "The": 1, "Ngoc": 1, "Hoang": 1, "Phat": 1, "Tuan": 1, "Khac": 1, "Dinh": 1, "Son": 1, "Doan": 1, "Duc": 1 }
+    last_name: { "Hoang": 1, "Cuong": 1, "Luan": 1, "Thinh": 1, "Theirry": 1, "Anh": 1, "Ngoc": 1, "Dong": 1, "Ha": 1, "Dat": 1 }

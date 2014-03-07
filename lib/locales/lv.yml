@@ -1,0 +1,5 @@
+lv:
+  name_generator:
+    first_name:
+      male: { "Jans": 1, "Andrejs": 1, "Edgars": 1, "Mihails": 1, "Guntars": 1, "Jurijs": 1, "Maksims": 1, "Vladimirs": 1, "Eriks": 1, "Dmitrijs": 1, "Jevgenijs": 1, "Kaspars": 1 }
+    last_name: { "Radevics": 1, "Kovalovs": 1, "Jermolajevs": 1, "Zizilevs": 1, "Silagailis": 1, "Sokolovs": 1, "Rafalskis": 1, "Volkovs": 1, "Kokins": 1, "Halvitovs": 1, "Simonovs": 1, "Nerugals": 1, "Ikstens": 1 }

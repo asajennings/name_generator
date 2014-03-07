@@ -1,0 +1,5 @@
+ir:
+  name_generator:
+    first_name:
+      male: { "Rahman": 1, "Shahab": 1, "Alireza": 1, "Khosro": 1, "Ehsan": 1, "Jalal": 1, "Hadi": 1, "Hossein": 1, "Pejman": 1, "Mohammed": 1, "Mehrdad": 1, "Javad": 1, "Masoud": 1, "Mojtaba": 1, "Andranik": 1, "Yaghoub": 1, "Ashkan": 1, "Omid": 1, "Gholamreza": 1, "Reza": 1, "Farzad": 1 }
+    last_name: { "Abbasi": 1, "Ahmadi": 1, "Akbari": 1, "Alizadeh": 1, "Hassani": 1, "Hosseini": 1, "Jafari": 1, "Kazemi": 1, "Kia": 1, "Mohammadi": 1, "Pahlavi": 1, "Paria": 1, "Saeedi": 1, "Shirazi": 1, "Yadollahi": 1 }

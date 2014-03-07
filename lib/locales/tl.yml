@@ -1,0 +1,5 @@
+tl:
+  name_generator:
+    first_name:
+      male: { "Victor": 1, "Miguel": 1, "Juvitu": 1, "Vicente": 1, "Rogerio": 1, "Lamberto": 1, "Ljose": 1, "Emilio": 1, "Eusebio": 1, "Elijeu": 1, "Florencio": 1 }
+    last_name: { "Jorge": 1, "Santos": 1, "Da Silva": 1, "Freitas": 1, "Quinta": 1, "Gama": 1, "Pereira": 1, "Olivyera": 1, "Almeida": 1, "de Jesus": 1, "Barbosa": 1 }

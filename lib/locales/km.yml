@@ -1,0 +1,5 @@
+km:
+  name_generator:
+    first_name:
+      male: { "Mahamoud": 1, "Mohamed": 1, "David": 1, "Ibrahim": 1, "Mahamoud Ali": 1, "Iyad": 1, "Ali": 1, "Salim": 1, "Nadjim": 1, "Abdoulmadjid": 1, "Djamal": 1, "Youssouf": 1, "Fouad": 1, "Nakibou": 1, "Samir": 1, "Moubarak": 1, "Benhamadi": 1 }
+    last_name: { "Mroivili": 1, "Mbalia": 1, "Humblot": 1, "Rachidi": 1, "M'Changama": 1, "Issimalia": 1, "Mourade": 1, "Soule": 1, "Mramboini": 1, "Abdou": 1, "Abdoulhafar": 1, "Youssouf": 1, "Mohamed": 1, "Rachid": 1, "M'Madi": 1, "Aboubakari": 1, "D'Avesnes": 1, "Mfoihaia": 1, "Charaf": 1 }

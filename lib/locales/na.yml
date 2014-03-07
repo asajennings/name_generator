@@ -1,0 +1,5 @@
+na:
+  name_generator:
+    first_name:
+      male: { "Abongile": 1, "Mwssa": 1, "Marvin": 1, "Hartman": 1, "Gustav": 1, "Bradley": 1, "Quinton": 1, "Willy": 1, "Jerome": 1, "Erastus": 1, "Clarence": 1, "Romano": 1, "Jack": 1 }
+    last_name: { "Grootboom": 1, "Kiriri": 1, "Katine": 1, "Torombo": 1, "Tjituka": 1, "Wermann": 1, "Kuruseb": 1, "Stephanus": 1, "Lewis": 1, "Foroma": 1, "Kazapua": 1, "da Costa": 1, "Makubu": 1 }

@@ -1,0 +1,5 @@
+np:
+  name_generator:
+    first_name:
+      male: { "Bikash": 1, "Chun": 1, "Ram": 1, "Tanka": 1, "Santosh": 1, "Hiranya": 1, "Bharat": 1, "Chandra": 1, "Biraj": 1, "Dipesh": 1, "Anil": 1, "Bikram": 1, "Vishan": 1 }
+    last_name: { "Tamang": 1, "Maharjan": 1, "Jha": 1, "Gurung": 1, "Ojha": 1, "Lama": 1, "Gauchan": 1, "Chemjong": 1, "Rai": 1, "Shrestha": 1, "Dhimal": 1, "Thapa": 1, "Sahukhala": 1 }

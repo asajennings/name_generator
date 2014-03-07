@@ -1,0 +1,5 @@
+me:
+  name_generator:
+    first_name:
+      male: { "Jasmin": 1, "Mihailo": 1, "Risto": 1, "Stefan": 1, "Radivoje": 1, "Dragan": 1, "Luka": 1, "Boris": 1, "Marko": 1, "Vladislav": 1, "Milos": 1, "Damir": 1, "Darko": 1, "Nikola": 1, "Admir": 1, "Vuk": 1, "Momcilo": 1, "Aleksandar": 1, "Adnan": 1 }
+    last_name: { "Agovic": 1, "Tomkovic": 1, "Radunovic": 1, "Pekovic": 1, "Cicmil": 1, "Dikanovic": 1, "Golubovic": 1, "Mugosa": 1, "Boskovic": 1, "Bojic": 1, "Tatar": 1, "Vukcevic": 1, "Rogosic": 1, "Kopitovic": 1, "Cmiljanic": 1, "Raickovic": 1, "Ljuljanovic": 1, "Nikac": 1, "Adrovic": 1, "Radovic": 1, "Raspopovic": 1, "Milosevic": 1, "Kalezic": 1, "Orahovac": 1 }

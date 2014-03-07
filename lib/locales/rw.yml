@@ -1,0 +1,5 @@
+rw:
+  name_generator:
+    first_name:
+      male: { "Evariste": 1, "Jean-Claude": 1, "Olivier": 1, "Fabrice": 1, "Frederic": 1, "Ismael": 1, "Jonas": 1, "Emery": 1, "Tumaine": 1, "Salomon": 1, "Jean-Baptiste": 1, "Haruna": 1, "Hussein": 1 }
+    last_name: { "Mutuyimana": 1, "Ndoli": 1, "Kwizera": 1, "Ndaka": 1, "Nahimana": 1, "Bayisenge": 1, "Ntamuhanga": 1, "Nirisarike": 1, "Niyonzima": 1, "Iranzi": 1, "Sibomana": 1 }

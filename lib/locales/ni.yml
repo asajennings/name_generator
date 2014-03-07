@@ -1,0 +1,5 @@
+ni:
+  name_generator:
+    first_name:
+      male: { "Denis": 1, "Kenieth": 1, "Freddy": 1, "Ismael": 1, "Ricardo": 1, "Axel": 1, "Darwin": 1, "Medardo": 1, "Lesther": 1, "Mario": 1, "Osman": 1, "Josue": 1, "Alfredo": 1, "Guillermo": 1 }
+    last_name: { "Espinoza": 1, "Vanegas": 1, "Villareina": 1, "Reyes": 1, "Vega": 1, "Villanueva": 1, "Ramirez": 1, "Martinez": 1, "Garcia": 1, "Delgado": 1, "Parrales": 1, "Quijano": 1, "Torrez": 1, "Padilla": 1 }

@@ -1,0 +1,5 @@
+qa:
+  name_generator:
+    first_name:
+      male: { "Almahdi": 1, "Ali": 1, "Fahad": 1, "Jaser": 1, "Jassim": 1, "Mesab": 1, "Saleh": 1, "Hamad": 1, "Hilal": 1, "Abdulrahman": 1, "Omar": 1 }
+    last_name: { "Ali Mukhtar": 1, "Assadalla": 1, "Al-Shammari": 1, "Zakaria": 1, "Malalla": 1, "Khoder": 1, "Al Yazidi": 1, "Al-Mass": 1, "Mohammed": 1, "Nasser": 1, "Rabeh": 1 }

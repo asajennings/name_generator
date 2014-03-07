@@ -1,0 +1,5 @@
+sb:
+  name_generator:
+    first_name:
+      male: { "Brian": 1, "Hardies": 1, "Dennis": 1, "Tome": 1, "Chris": 1, "Toata": 1, "Loea": 1, "Kidstone": 1, "Joachim": 1, "Gagame": 1, "Jerry": 1, "Jeffery": 1, "Emmanuel": 1, "Silas": 1, "Micah": 1 }
+    last_name: { "Houkarawa": 1, "Aengari": 1, "Ifunaoa": 1, "Feni": 1, "Faisi": 1, "Tafoa": 1, "Tigi": 1, "Mani": 1, "Waroi": 1, "Donga": 1, "Bule": 1, "Poila": 1, "Seda": 1, "Huia": 1 }

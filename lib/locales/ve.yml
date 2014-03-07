@@ -1,0 +1,5 @@
+ve:
+  name_generator:
+    first_name:
+      male: { "Manuel": 1, "Pablo": 1, "Jhon": 1, "Jose": 1, "Franco": 1, "Angel": 1, "Jesus": 1, "Javier": 1, "Alexander": 1, "Cesat": 1, "Jean Carlos": 1, "Armin": 1, "Orlando": 1, "Guillermo": 1, "Alfredo": 1, "Juan": 1, "Robert": 1, "Gerzon": 1 }
+    last_name: { "Sanhouse": 1, "Camacho": 1, "Palacios": 1, "Acosta": 1, "Fasciana": 1, "Agnello": 1, "Lugo": 1, "Villafraz": 1, "Rondon": 1, "Gonzalez": 1, "Issa": 1, "Marquez": 1, "Lopez": 1, "Montanari": 1, "Banquez": 1, "Bordon": 1, "Azocar": 1, "Munoz": 1, "Contreras": 1, "Chacon": 1, "Peraza": 1 }

@@ -1,0 +1,5 @@
+vu:
+  name_generator:
+    first_name:
+      male: { "Ernst": 1, "Kerry": 1, "Julian": 1, "Jack": 1, "Brian": 1, "Samuel": 1, "David": 1, "Kalserei": 1, "Hibert": 1, "Anderson": 1, "Werwer": 1 }
+    last_name: { "Bong": 1, "Kalotang": 1, "Kalran": 1, "Wanemut": 1, "Kaloros": 1, "Ruben": 1, "Arsen": 1, "Takau": 1, "Kalmer": 1, "Tasso": 1, "Roqara": 1 }

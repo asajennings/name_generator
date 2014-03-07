@@ -1,0 +1,5 @@
+mk:
+  name_generator:
+    first_name:
+      male: { "Kostadin": 1, "Zlatko": 1, "Mite": 1, "Milan": 1, "Dimitrija": 1, "Miroslav": 1, "Predrag": 1, "Ostoja": 1, "Aleksandar": 1, "Borce": 1, "Dragan": 1, "Filip": 1, "Jovan": 1, "Aco": 1 }
+    last_name: { "Zahov": 1, "Tanevski": 1, "Cikarski": 1, "Ilievski": 1, "Lazarevski": 1, "Vajs": 1, "Randelovic": 1, "Stjepanovic": 1, "Temelkov": 1, "Manevski": 1, "Georgiev": 1, "Petrov": 1, "Kostovski": 1, "Stojkov": 1 }

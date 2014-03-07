@@ -1,0 +1,5 @@
+lu:
+  name_generator:
+    first_name:
+      male: { "Alija": 1, "Alexandre": 1, "Jeremie": 1, "David": 1, "Tom": 1, "Jeff": 1, "Joel": 1, "Gerard": 1, "Alen": 1, "Billy": 1, "Lauent": 1, "Pit": 1, "Julien": 1, "Joe": 1 }
+    last_name: { "Besic": 1, "Semedo": 1, "Peiffer": 1, "Veiga": 1, "Schnell": 1, "Strasser": 1, "Kitenge": 1, "Geisbusch": 1, "Milak": 1, "Bernard": 1, "Jans": 1, "Theis": 1, "Klein": 1, "Frising": 1 }

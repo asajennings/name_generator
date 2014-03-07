@@ -1,0 +1,5 @@
+ss:
+  name_generator:
+    first_name:
+      male: { "Jumma": 1, "Hassan": 1, "Zachariah": 1, "Martin": 1, "Miskeen": 1, "Hassein": 1, "Villion": 1, "Richard": 1, "Athir": 1, "Jackson": 1, "Emmanuel": 1, "Kuzgbour": 1, "Adnan": 1, "Khamis": 1 }
+    last_name: { "Rafail": 1, "Atinasio": 1, "Ismail": 1, "Lado": 1, "Thomas": 1, "Mubaraka": 1, "Manase": 1, "Dak": 1, "Martin": 1, "Luwal": 1, "Amana": 1, "Deng": 1, "Leyano": 1, "Moga": 1 }

@@ -1,0 +1,5 @@
+lc:
+  name_generator:
+    first_name:
+      male: { "Randy": 1, "Caster": 1, "Mogabi": 1, "Lennon": 1, "Troy": 1, "Hezron": 1, "Rico": 1, "Zephaniah": 1, "Jonas": 1, "Victory": 1, "Hiram": 1, "Shervon": 1, "Everton": 1, "Francis": 1, "Dellon": 1 }
+    last_name: { "Poleon": 1, "James": 1, "Polius": 1, "Verdant": 1, "Cerry": 1, "Justin": 1, "Daniel": 1, "Felicien": 1, "Maxius": 1, "Leon": 1, "Hunte": 1, "Jack": 1, "Lambert": 1, "Lastic": 1, "Joseph": 1, "McPhee": 1 }

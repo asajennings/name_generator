@@ -1,0 +1,5 @@
+li:
+  name_generator:
+    first_name:
+      male: { "Peter": 1, "Daniel": 1, "Franz": 1, "Philippe": 1, "Yves": 1, "Nicolas": 1, "David": 1, "Benjamin": 1, "Franz-Josef": 1, "Stefan": 1, "Mathias": 1, "Mario": 1, "Lorenzo": 1 }
+    last_name: { "Jehle": 1, "Kaufmann": 1, "Burgmeier": 1, "Erne": 1, "Oehri": 1, "Hasler": 1, "Buchel": 1, "Vogt": 1, "Ospelt": 1, "Christen": 1, "Maag": 1, "Tichy": 1, "Russo": 1, "Stulz": 1 }

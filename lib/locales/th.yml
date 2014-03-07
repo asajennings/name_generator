@@ -1,0 +1,5 @@
+th:
+  name_generator:
+    first_name:
+      male: { "Teeradech": 1, "Witthawin": 1, "Surachet": 1, "Narongchai": 1, "Sumanya": 1, "Pitak": 1, "Singkorn": 1, "Napat": 1, "Yuttajak": 1, "Sumet": 1, "Chalermkiat": 1, "Phuwadol": 1, "Chotinan": 1 }
+    last_name: { "Nuengmadcha": 1, "Klorwutthiwat": 1, "Ngamtip": 1, "Noikwa": 1, "Mungkud": 1, "Tapketkaew": 1, "Yooto": 1, "Sombutpan": 1, "Theerapatpong": 1, "Prajakkata": 1, "Pitafai": 1, "Boonyong": 1, "Sattabud": 1 }

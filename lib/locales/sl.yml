@@ -1,0 +1,5 @@
+sl:
+  name_generator:
+    first_name:
+      male: { "Christian": 1, "Ayo": 1, "Tunde": 1, "Khalifa": 1, "Alusine": 1, "Gibrilla": 1, "Mohamed": 1, "Michael": 1, "Lansana": 1, "Abdul": 1, "James": 1, "Abu": 1 }
+    last_name: { "Divine": 1, "Shyllon": 1, "Jabbie": 1, "Kamara": 1, "Fofanah": 1, "Mansaray": 1, "Alhadi": 1, "Kallay": 1, "Sesay": 1, "Jalloh": 1, "Bakarr": 1, "Idriss": 1 }

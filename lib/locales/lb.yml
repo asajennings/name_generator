@@ -1,0 +1,5 @@
+lb:
+  name_generator:
+    first_name:
+      male: { "Abbas": 1, "Nazih": 1, "Youssef": 1, "Mootaz": 1, "Bilal": 1, "Nour": 1, "Ali": 1, "Walid": 1, "Mohamad": 1, "Haitham": 1, "Adnan": 1 }
+    last_name: { "Hassan": 1, "Mehanna": 1, "Assaad": 1, "Mohamed": 1, "Jounaidi": 1, "Najjarin": 1, "Mansour": 1, "Al Saadi": 1, "Ismail": 1, "Hamam": 1, "Shamas": 1, "Faour": 1 }

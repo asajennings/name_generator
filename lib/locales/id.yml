@@ -1,0 +1,5 @@
+id:
+  name_generator:
+    first_name:
+      male: { "Kurnia": 1, "Purwaka": 1, "Egi": 1, "Dedi": 1, "Hendro": 1, "Hasyim": 1, "Joko": 1, "Benny": 1, "Gilang": 1, "Achmad": 1, "Victor": 1, "Dendi": 1, "Yericho": 1, "Reza": 1, "Natshir": 1, "Muhammed": 1, "Johan": 1, "Irsyad": 1, "Engelbert": 1 }
+    last_name: { "Meiga": 1, "Yudhi": 1, "Nwokolo": 1, "Kusnandar": 1, "Siswanto": 1, "Kipuw": 1, "Minny": 1, "Sasongko": 1, "Wahyudi": 1, "Wardana": 1, "Ginarsa": 1, "Kurniawan": 1, "Igbonefo": 1, "Santoso": 1, "Sukadana": 1, "Mustofa": 1, "Mahbuby": 1, "Ridhuan": 1, "Farizi": 1 }

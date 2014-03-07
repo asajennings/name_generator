@@ -1,0 +1,5 @@
+ne:
+  name_generator:
+    first_name:
+      male: { "Rabo": 1, "Ousseini": 1, "Karim": 1, "Abdoul": 1, "Youssoufa": 1, "Koffi": 1, "Moustapha": 1, "Kamilou": 1, "Moussa": 1, "Chikoto": 1, "Kader": 1, "Komla": 1, "Idrissa": 1, "Inoussa": 1 }
+    last_name: { "Saminou": 1, "Mahamadou": 1, "Paraiso": 1, "Abdou": 1, "Oumarou": 1, "Amadou": 1, "Kowa": 1, "Garba": 1, "Issoufou": 1, "Hamami": 1, "Mohamed": 1, "Hassane": 1, "Galey": 1, "Halidou": 1 }

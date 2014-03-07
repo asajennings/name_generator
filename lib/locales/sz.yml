@@ -1,0 +1,5 @@
+sz:
+  name_generator:
+    first_name:
+      male: { "Sitali": 1, "Samson": 1, "Raphael": 1, "Muzi": 1, "Siyabonga": 1, "Dumasi": 1, "Sabelo": 1, "Phumlani": 1, "Sandile": 1, "Clenboy": 1, "Sifiso": 1 }
+    last_name: { "Mulife": 1, "Kawawa": 1, "Ntimane": 1, "Dlamini": 1, "Nkambule": 1, "Kunene": 1, "Zitha": 1, "Mkhize": 1, "Motsa": 1, "Dube": 1, "Mkhabela": 1 }

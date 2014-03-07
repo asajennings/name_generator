@@ -1,0 +1,5 @@
+ma:
+  name_generator:
+    first_name:
+      male: { "Abdelaziz": 1, "Abdelkader": 1, "Abdellah": 1, "Abderrahim": 1, "Abdeslam": 1, "Ahmed": 1, "Ali": 1, "Aziz": 1, "Brahim": 1, "Driss": 1, "Hamid": 1, "Hassan": 1, "Hicham": 1, "Jamal": 1, "Khalid": 1, "Mhamed": 1, "Mimoun": 1, "Mohamed": 1, "Mohammed": 1, "Mostafa": 1, "Mustapha": 1, "Omar": 1, "Rachid": 1, "Said": 1, "Tahar": 1, "Youssef": 1, "Zakaria": 1, "Mehdi": 1, "Nassir": 1, "Zayd": 1, "Bilal": 1, "Ouissam": 1, "Jaouad": 1, "Abdeladim": 1, "Amine": 1, "Samir": 1, "Abdelkarim": 1 }
+    last_name: { "El Kinani": 1, "Malhaoui": 1, "Abarhoun": 1, "Bouizgar": 1, "Khalati": 1, "Bouchta": 1, "El Mimouni": 1, "Karouch": 1, "El Yousfi": 1, "Zeriouh": 1, "Megri": 1, "El Baraka": 1, "Ismalli": 1, "Khadrouf": 1, "Namli": 1, "Kazani": 1, "Benhania": 1, "Belmhal": 1 }

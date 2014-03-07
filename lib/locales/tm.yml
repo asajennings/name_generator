@@ -1,0 +1,5 @@
+tm:
+  name_generator:
+    first_name:
+      male: { "Rahmanberdy": 1, "Mammed": 1, "Hemayat": 1, "Serdar": 1, "Nazar": 1, "Sohrat": 1, "Ahmet": 1, "Dawid": 1, "Akmyrat": 1, "Ruslan": 1, "Didar": 1, "Elman": 1 }
+    last_name: { "Annaorazow": 1, "Coliyew": 1, "Soyunow": 1, "Atayew": 1, "Sarkisow": 1, "Baltayew": 1, "Mingazow": 1, "Rejepow": 1, "Tagayew": 1, "Abylow": 1 }

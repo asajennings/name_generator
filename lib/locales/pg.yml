@@ -1,0 +1,5 @@
+pg:
+  name_generator:
+    first_name:
+      male: { "Gure": 1, "Paul": 1, "Tagaya": 1, "Joshua": 1, "Jeremy": 1, "Enoch": 1, "Michael": 1, "Eliud": 1, "Roniel": 1, "Amon": 1, "Fabian": 1, "Felix": 1, "Lap": 1, "Paschal": 1, "Benmax": 1 }
+    last_name: { "Gabina": 1, "Peter": 1, "Lepani": 1, "Niebo": 1, "Yasasa": 1, "Abraham": 1, "Foster": 1, "Fugre": 1, "Igens": 1, "Meki": 1, "Bagi": 1, "Bondaluk": 1, "Wojem": 1, "Embel": 1, "Paisabua": 1 }

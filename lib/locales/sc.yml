@@ -1,0 +1,5 @@
+sc:
+  name_generator:
+    first_name:
+      male: { "Ted": 1, "Verna": 1, "Geal": 1, "Achilles": 1, "Jude": 1, "Hubert": 1, "Jonathan": 1, "Don": 1, "Denis": 1, "Melvin": 1, "Paul": 1, "Alpha": 1, "Georges": 1, "Robert": 1, "Esther": 1, "Rose": 1, "Gesinghaus": 1, "Henriette": 1, "Ladouce": 1, "Ernesta": 1, "Bibi": 1, "Annacoura": 1, "Barbe": 1, "Mathiot": 1, "Khan": 1, "Blade": 1, "Ravignia": 1, "Suzette": 1 }
+    last_name: { "Albert": 1, "Baland": 1, "Brouhet": 1, "Corgat": 1, "Delorie": 1, "D'Offay": 1, "Duguet": 1 }

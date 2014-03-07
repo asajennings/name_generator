@@ -1,0 +1,5 @@
+ug:
+  name_generator:
+    first_name:
+      male: { "Buule": 1, "Yusufu": 1, "Kazibwe": 1, "Masabe": 1, "Mulumbu": 1, "Lukwiya": 1, "Willy": 1, "Mukasa": 1, "Makanga": 1, "Mutumba": 1, "Katongole": 1 }
+    last_name: { "Godwin": 1, "Jjuuko": 1, "Ismail": 1, "Kasozi": 1, "Ceaser": 1, "Kavuma": 1, "Musa": 1, "Godfrey": 1, "Sula": 1, "Derrick": 1, "Charles": 1 }

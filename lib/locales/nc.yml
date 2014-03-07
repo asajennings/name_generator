@@ -1,0 +1,5 @@
+nc:
+  name_generator:
+    first_name:
+      male: { "Rocky": 1, "Pierre": 1, "Emile": 1, "Patrick": 1, "Nicolas": 1, "Marius": 1, "Georges": 1, "Jean Paul": 1, "Daniel": 1, "Stephane": 1, "Stan": 1, "Robert": 1 }
+    last_name: { "Nyikeine": 1, "Bearune": 1, "Qaeze": 1, "Ouka": 1, "Bako": 1, "Wenessia": 1, "Wajoka": 1, "Niandou": 1, "Wayaridri": 1, "Moagou": 1, "Poadjare": 1 }

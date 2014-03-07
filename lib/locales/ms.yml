@@ -1,0 +1,5 @@
+ms:
+  name_generator:
+    first_name:
+      male: { "Jermaine": 1, "McPherson": 1, "Dean": 1, "Marlon": 1, "Clifford": 1, "Kendall": 1, "Ramon": 1, "Nyron": 1, "Kelvin": 1, "Terell": 1, "Darryl": 1, "Dale": 1, "Alexander": 1 }
+    last_name: { "Sweeney": 1, "Meade": 1, "Byfield": 1, "Campbell": 1, "Harris": 1, "Allen": 1, "Wilson": 1, "Dyer": 1, "Ponde": 1, "Miller": 1, "Roach": 1, "Lee": 1, "Bramble": 1, "Clyne": 1 }

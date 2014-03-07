@@ -1,0 +1,5 @@
+kz:
+  name_generator:
+    first_name:
+      male: { "Vladislav": 1, "Viktor": 1, "Kairat": 1, "Anton": 1, "Pavel": 1, "Gleb": 1, "Sergei": 1, "Alibek": 1, "Igor": 1, "Dmitri": 1, "Nikita": 1, "Timur": 1, "Vladimir": 1, "Vyacheslav": 1 }
+    last_name: { "Chernyshov": 1, "Kryukov": 1, "Utabayev": 1, "Chichulin": 1, "Shabalin": 1, "Maltsev": 1, "Ivanov": 1, "Ayaganov": 1, "Yurin": 1, "Shomko": 1, "Kalmykov": 1, "Yakovlev": 1, "Kotlyar": 1 }

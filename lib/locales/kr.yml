@@ -1,0 +1,7 @@
+kr:
+  name_generator:
+    first_name:
+      male: { "Lee": 1, "Kang": 1, "Park": 1, "Yoon": 1, "Lim": 1, "Choi": 1, "Kim": 1, "Hwang": 1, "Jeon": 1, "Han": 1, "Yun": 1, "Ku": 1, "Jang": 1, "Kyung": 1, "Ju": 1, "Bang": 1, "Jung": 1, "Yoo": 1 }
+    middle_name:
+      male: { "Beom": 1, "Dae": 1, "Jong": 1, "Kyung": 1, "Dong": 1, "Sang": 1, "Jin": 1, "Han": 1, "Ik": 1, "Yong": 1, "Ji": 1, "Sun": 1, "Hyeon": 1, "Hyung": 1, "Yeong": 1, "Chang": 1, "Hak": 1, "Jae": 1, "Sung": 1, "Se": 1, "Seung": 1, "Seok": 1, "Joon": 1, "Ki": 1 }
+    last_name: { "Young": 1, "Ho": 1, "Woo": 1, "Ryul": 1, "Min": 1, "Hyub": 1, "Yoon": 1, "Hyun": 1, "Pil": 1, "Wook": 1, "Do": 1, "Won": 1, "No": 1, "Keun": 1, "Jun": 1, "Hun": 1, "Woon": 1, "Jong": 1, "Hwan": 1, "Kang": 1, "Yong": 1, "Hyung": 1 }

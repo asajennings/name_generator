@@ -1,0 +1,5 @@
+tt:
+  name_generator:
+    first_name:
+      male: { "Kevin": 1, "Anton": 1, "Michael": 1, "James": 1, "Kerwin": 1, "Christian": 1, "Akil": 1, "Claude": 1, "Kelshall": 1, "David": 1, "Addison": 1, "Rawle": 1, "Cleon": 1, "Kenrick": 1 }
+    last_name: { "Graham": 1, "Edwards": 1, "McDougall": 1, "Baptiste": 1, "Adams": 1, "Alexander": 1, "Belfon": 1, "Fletcher": 1, "John": 1, "Joseph": 1, "Saunders": 1, "Boyce": 1, "Smith": 1 }

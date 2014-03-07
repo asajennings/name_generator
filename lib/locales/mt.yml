@@ -1,0 +1,5 @@
+mt:
+  name_generator:
+    first_name:
+      male: { "Andre": 1, "Andrea  ": 1, "Christopher": 1, "Daniel": 1, "Dylan": 1, "Gabriel": 1, "Isaac": 1, "Jacob": 1, "Jake": 1, "James": 1, "Jeremy": 1, "Kurt": 1, "Kyle": 1, "Liam": 1, "Luca": 1, "Luke": 1, "Matteo": 1, "Matthew": 1, "Matthias": 1, "Michael": 1, "Miguel": 1, "Nathan": 1, "Nathaniel": 1, "Neil": 1, "Nicholas": 1, "Owen": 1, "Ryan": 1 }
+    last_name: { "Caruana": 1, "Azzopardi": 1, "Borg": 1, "Fenech": 1, "Agius": 1, "Mifsud": 1, "Briffa": 1, "Dimech": 1, "Zammit": 1, "Falzon": 1, "Bartolo": 1, "Cremona": 1 }

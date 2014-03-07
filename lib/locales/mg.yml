@@ -1,0 +1,5 @@
+mg:
+  name_generator:
+    first_name:
+      male: { "Bruno": 1, "Leonard": 1, "Tojonavalona": 1, "Tsima": 1, "Jean": 1, "Fidele": 1, "Damien": 1, "Aina": 1 }
+    last_name: { "Rajaozara": 1, "Baraka": 1, "Rajaonarisoa": 1, "Randriamihaja": 1, "Tholix": 1, "Randriamala": 1, "Mahavony": 1, "Ratsimialona": 1, "Rakotondramasy": 1 }

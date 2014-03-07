@@ -1,0 +1,5 @@
+sa:
+  name_generator:
+    first_name:
+      male: { "Yasser": 1, "Kamel": 1, "Waleed": 1, "Moataz": 1, "Osama": 1, "Taisir": 1, "Mustafa": 1, "Yahya": 1, "Mohammed": 1, "Mansoor": 1, "Saeed": 1, "Essa": 1, "Mohsen": 1, "Ahmed": 1, "Abdullah": 1, "Ageel": 1, "Yasir": 1, "Abdulrahim": 1, "Jufain": 1, "Basem": 1, "Bader": 1, "Sami": 1, "Sultan": 1, "Haidar": 1 }
+    last_name: { "Al Mosailem": 1, "Al-Mor": 1, "Bakshwin": 1, "Al-Musa": 1, "Hawsawi": 1, "Al-Jassim": 1, "Basas": 1, "Hakami": 1, "Barnawi": 1, "Al-Harbi": 1, "Al-Muwallad": 1, "Al-Mehyani": 1, "Al-Eisa": 1, "Darwish": 1, "Al-Hamed": 1, "Balghath": 1, "Mayyof": 1, "Al-Fahmi": 1, "Jaizawi": 1, "Aman": 1, "Al-Bishi": 1, "Al-Jdani": 1, "Alatalah": 1, "Al-Khames": 1, "Zakriya": 1, "Al-Sawadi": 1, "Majrashi": 1, "Al-Mousa": 1, "Al-Amer": 1, "Al-Fatil": 1 }

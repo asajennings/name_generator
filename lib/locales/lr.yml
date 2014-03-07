@@ -1,0 +1,5 @@
+lr:
+  name_generator:
+    first_name:
+      male: { "Michael": 1, "Namie": 1, "Emmanuel": 1, "Zayzay": 1, "Mohammed": 1, "Emette": 1, "Daniel": 1, "Gideon": 1, "Jonah": 1, "Milton": 1, "Sunday": 1, "Eujay": 1, "Alexander": 1, "Farmolu": 1, "Abel": 1, "Vitalis": 1, "Alvin": 1, "Trokon": 1 }
+    last_name: { "Jaesue": 1, "Yancy": 1, "Tarpeh": 1, "Kollie": 1, "Wleh": 1, "Woto": 1, "Williams": 1, "Sarweih": 1, "Smythe": 1, "Seah": 1, "Radu": 1, "Dargbe": 1, "Horton": 1, "Sie": 1, "Dixon": 1, "Zeon": 1 }

@@ -1,0 +1,5 @@
+za:
+  name_generator:
+    first_name:
+      male: { "Jimmy": 1, "Erick": 1, "Tefu": 1, "Siboniso": 1, "Reneilwe": 1, "Kaizer": 1, "Josta": 1, "Siyabonga": 1, "Abia": 1, "Keegan": 1, "Siphiwe": 1, "Nhlanhla": 1, "George": 1, "Kgotso": 1 }
+    last_name: { "Tauwene": 1, "Matholo": 1, "Mashamaite": 1, "Gaxa": 1, "Letsholonyane": 1, "Motaung": 1, "Dladla": 1, "Nkosi": 1, "Nale": 1, "Lebese": 1, "Moleko": 1, "Majoro": 1, "Masango": 1, "Ngcobo": 1 }

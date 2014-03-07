@@ -1,0 +1,5 @@
+tz:
+  name_generator:
+    first_name:
+      male: { "Ally": 1, "Ibrahim": 1, "Erasto": 1, "Salum": 1, "Zahoro": 1, "Samih": 1, "Aggrey": 1, "Said": 1, "Mrisho": 1, "Gaudence": 1, "John": 1, "Khamis": 1, "Himidi": 1, "Jabir": 1, "Waziri": 1 }
+    last_name: { "Mwadini": 1, "Mwaipopo": 1, "Kakolaki": 1, "Nyoni": 1, "Odhiambo": 1, "Pazi": 1, "Nuhu": 1, "Abdallah": 1, "Moradi": 1, "Ngassa": 1, "Mwaikimba": 1, "Khamis": 1, "Stima": 1, "Omar": 1, "Munishi": 1 }

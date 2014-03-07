@@ -1,0 +1,5 @@
+la:
+  name_generator:
+    first_name:
+      male: { "Sengphachan": 1, "Soukthavy": 1, "Khamphoumy": 1, "Kovanh": 1, "Saynakhonevieng": 1, "Khamla": 1, "Ketsada": 1, "Thothilath": 1, "Vilayout": 1, "Khonesavanh": 1, "Daoneua": 1, "Keoviengphet": 1, "Viengsavanh": 1, "Kanlaya": 1 }
+    last_name: { "Bounthisanh": 1, "Soundala": 1, "Hanvilay": 1, "Namthavixay": 1, "Phommapanya": 1, "Pinkeo": 1, "Souksavanh": 1, "Sibounhuang": 1, "Sayyabounsou": 1, "Sihavong": 1, "Sysomvang": 1, "Syvilay": 1, "Vongchiengkham": 1, "Sayyaboun": 1 }

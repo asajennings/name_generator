@@ -1,0 +1,5 @@
+vg:
+  name_generator:
+    first_name:
+      male: { "Dion": 1, "Humphry": 1, "Kenmore": 1, "Garnett": 1 }
+    last_name: { "Clarke": 1, "Leue": 1, "Peters": 1, "Ferron": 1 }

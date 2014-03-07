@@ -1,0 +1,5 @@
+ws:
+  name_generator:
+    first_name:
+      male: { "Aukusitino": 1, "Ethan": 1, "Andrew": 1, "Peni": 1, "Vaalii": 1, "Tamoto": 1, "Jarrell": 1, "Sapati": 1, "Masei": 1, "Silao": 1, "Joseph": 1, "Sopo": 1, "Patrick": 1 }
+    last_name: { "Aitupe": 1, "Setefano": 1, "Faalogo": 1, "Kitiona": 1, "Fenika": 1, "Sale": 1, "Umataua": 1, "Amosa": 1, "Malo": 1, "Fakaua": 1, "Vava": 1, "Asiata": 1 }

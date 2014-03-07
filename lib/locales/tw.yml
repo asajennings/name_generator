@@ -1,0 +1,5 @@
+tw:
+  name_generator:
+    first_name:
+      male: { "Pan": 1, "Chen": 1, "Tu": 1, "Huang": 1, "Lee": 1, "Ho": 1, "Chiu": 1, "Kuo": 1, "Feng": 1, "Fang": 1, "Liang": 1, "Tsai": 1, "Wu": 1, "Lin": 1, "Wen": 1, "Lu": 1, "Chiang": 1, "Hsu": 1 }
+    last_name: { "Wei-chih": 1, "Shan-fu": 1, "Ming-feng": 1, "Wen-cheng": 1, "Yulin": 1, "Tai-lin": 1, "Yi-huan": 1, "Yin-hung": 1, "Kai-jun": 1, "Pao-hsing": 1, "Yi-wei": 1, "Chun-chieh": 1, "Ching-jen": 1, "Chien-wei": 1, "Sheng-an": 1, "Jun-ching": 1, "Po-yuan": 1, "Chun-yi": 1, "Chih-hao": 1, "Kun-chi": 1, "Chiu-ching": 1, "Shi-shan": 1, "Ming-han": 1, "Meng-chian": 1, "Chi-feng": 1, "Hsiang-yu": 1, "Jun-cheng": 1 }

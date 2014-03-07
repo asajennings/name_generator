@@ -1,0 +1,5 @@
+tj:
+  name_generator:
+    first_name:
+      male: { "Rustam": 1, "Bakhodur": 1, "Maruf": 1, "Zarif": 1, "Saikhoni": 1, "Khurshed": 1, "Hasan": 1, "Odil": 1, "Eradj": 1, "Daler": 1, "Komroni": 1 }
+    last_name: { "Rizoev": 1, "Shamsov": 1, "Rustamov": 1, "Amrokhon": 1, "Karimov": 1, "Irgashev": 1, "Holov": 1, "Jurahon": 1, "Saidzod": 1, "Rahimov": 1, "Huseynov": 1 }

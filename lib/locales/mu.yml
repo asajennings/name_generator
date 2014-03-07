@@ -1,0 +1,5 @@
+mu:
+  name_generator:
+    first_name:
+      male: { "Aboobakar": 1, "Ivahn": 1, "Christopher": 1, "Percy": 1, "Jean": 1, "Joye": 1, "Chandrayah": 1, "Guityano": 1, "Menzy": 1, "Stephane": 1, "Fabien": 1, "Fabrice": 1 }
+    last_name: { "Augustin": 1, "Josee": 1, "Bazerque": 1, "Dookhee": 1, "Estazie": 1, "Veeranah": 1, "Chiffone": 1, "Coco": 1, "Pierre": 1, "Pithia": 1, "Calambe": 1, "Hypolite": 1, "Nabab": 1, "Patale": 1 }

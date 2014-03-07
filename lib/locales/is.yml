@@ -1,0 +1,5 @@
+is:
+  name_generator:
+    first_name:
+      male: { "Jón": 1, "Daníel": 1, "Aron": 1, "Sigurdur": 1, "Arnar": 1, "Kristófer": 1, "Gunnar": 1, "Alexander": 1, "Andri": 1, "Viktor": 1, "Einar": 1, "Gudmundur": 1, "Stefán": 1, "Kristján": 1, "Ólafur": 1, "Bjarki": 1, "Sindri": 1, "Magnús": 1, "Róbert": 1, "Ísak": 1, "Jóhann": 1, "Dagur": 1, "Arnór": 1, "Tómas": 1, "Brynjar": 1, "Sigmar": 1, "Gisli": 1, "Finnur": 1, "Elfar": 1, "Rafn": 1, "Olgeir": 1, "Vignir": 1, "Hoskuldur": 1, "Sverrir": 1, "Orn": 1, "Jokull": 1, "Gunnleifur": 1, "Kristinn": 1, "Stefan": 1, "Hrannar": 1, "Tomas": 1, "Osvald": 1, "Ingiberg": 1 }
+    last_name: { "Sigurdarson": 1, "Helgason": 1, "Margeirsson": 1, "Magnusson": 1, "Haraldsson": 1, "Sigurgeirsson": 1, "Johannesson": 1, "Gunnlaugsson": 1, "Ingason": 1, "Arnarson": 1, "Elisabetarson": 1, "Bjorgvinsson": 1, "Gunnleifsson": 1, "Jonsson": 1, "Palsson": 1, "Hreidarsson": 1, "Einarsson": 1, "Petursson": 1, "Gardarsson": 1, "Gunnarsson": 1, "Traustason": 1 }

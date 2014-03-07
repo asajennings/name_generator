@@ -1,0 +1,5 @@
+vi:
+  name_generator:
+    first_name:
+      male: { "Dillon": 1, "Terrence": 1, "Carlos": 1, "Ayinde": 1, "Lishati": 1, "Alberto": 1, "Kimani": 1, "Derrick": 1, "Andre": 1, "Joseph": 1, "Wilbert": 1 }
+    last_name: { "Pieffer": 1, "Jones": 1, "Claxton": 1, "Bailey": 1, "Van Gurp": 1, "George": 1, "Smith": 1, "Thomas": 1, "Pierre": 1, "Taylor": 1 }
