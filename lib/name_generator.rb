@@ -31,6 +31,7 @@ module NameGenerator
 
     def fetch(key)
       @key = key
+      p "max_probability is #{max_probability}"
       r = rand(0..max_probability)
       name_data.
         select { |k,v| v >= r }.keys.sample.
@@ -38,6 +39,7 @@ module NameGenerator
     end
 
     def translate(key)
+      p "locale is #{locale}"
       I18n.translate key, locale: locale, default: {}
     end
 
